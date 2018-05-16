@@ -1,0 +1,282 @@
+<html>
+    <head>
+        <title>RKC Projects | eBoard</title>
+        <link href="/Style&Images/articleCss.css" rel="stylesheet">
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+    </head>
+    
+    <body>
+        <div class="header">
+            <h1>
+                <a href="/index.html" class="homeButton">
+                    RKC Projects
+                </a>
+                <a href="/aboutTheAuthor.html" class="about">
+                    The Author
+                </a>
+                <a href="/aboutThisSite.html" class="about">
+                    The Site
+                </a>
+            </h1>
+        </div>
+        <div class="articleTitle">
+            <h2>
+                "Roxy" the 1980 Mazda Rx7
+            </h2>
+        </div>
+        <br>
+        <div>
+                <img class="coverImage" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhbVNZQUpvdjU2X0U" style="width:100%">  
+        </div>
+        
+        <br>
+        <p class="article">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Growing up, my dad was always incredibly proud of his '57 Chevy that he bought and refurbished when he was a high schooler, so when I was young I set my sites on a similar goal. I spent years saving up money and endless hours browsing autotrader looking for something that might pique my interest. Eventually I found a 1980 RX7 listing online; it fit my cost range, worked with the conditions that my dad sent, and fascinated me with its Wankel Rotary Engine.
+            <br>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            Eventually, my dad and I went to check out the car. It had a myriad of problems, but I was up to the challenge. Over the years I've got it running like new, fixing the exhaust, suspension, breaks, speakers, radio, interior lights, transmission, carpetting, antenna, side and back windows, dash board, and locks amongst other things.
+        </p>
+        <br>
+        
+        <div class="article">
+            <h1>
+                <div class="splitLine">
+                </div>
+                Timeline
+                <div class="splitLine">
+                </div>
+            </h1>
+            <dl>
+                
+                <dt class="itemHead"> 
+                    Version 1.4: &nbsp; Improved Drivetrain (Summer 2017)
+                </dt>
+                <br> 
+                <dd class="itemDescription">
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        Version 1.4 features a significantly improved drivetrain. I replaced the motor spindle gear (I had initially bought the wrong size and had drilled it to be larger in order to get it to fit) and I machined the truck and remade the bracket in order to get them to fit better and to make welding them together easier. 
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        This time I decided to use a dremel to remachine the parts. This took a lot of time, but allowed my to smooth out the truck to create a rounded, cylindrical surface, and also allowed to to make the bracket much more accurately, thus allowing me to increase the tension in the drive train belt. 
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        The increased tension in the belt, the new spindle gear, and the proper mounting of the bracket led to a huge increase in performance and fixed major problems like gear slippage due to a poorly sized and drilled spindle gear slipping on the shaft as well as belt slippage which occured when the belt lacked the tension to stay attached when applying large torques and would slip, both of which limited the board's maximum power output and ability to break. However, with these improvements both of those problems were significantly, if not totally, reduced, making the board much more adept at climbing hills, decending slopes, and quick starts. 
+                        <br>
+                    </pp>
+                </dd>
+                <br>
+                
+                
+                
+                <dt class="itemHead">
+                    Version 1.3: &nbsp; Training Wheels Protocol
+                </dt>
+                <br>
+                <dd class="itemDescription">
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        This version change was mostly a software update inspired by "Spiderman: Homecoming". In it I introduced communication between the board and the user and I also introduced a "beginners"/"training wheels" mode so that I could let others try the board with a reduced torque, making it safer and much easier to ride.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        To accomplish this I 3D printed a plug for the hole in the center of the board and inserted 7 LEDs into it: 3 red, 3 green, and 1 white, The red and green LEDs were hooked up to PWM pins on the Arduino and the white LED was soldered to a digital output pin. The red LEDS and green LEDs were wired in two separate parallel strips. The red strip and white LED were also preceeded by resistors (I forgot to do this on the green LEDs and accidentally blew them because of it). I then programmed the Arduino to send a PWM signal to the red LEDs (the green LEDs were burntout at this point) that was proportional to the throttle and brake percentages so that the red lights functioned like a power output meter.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        I then setup the white LED to be used to communicate with the rider. When the board is in normal riding mode and has axis to all of the power that the battery can provide, it shines a steady white and, when the board is in training wheels mode and only has access to 50% of its power, it flashes on and off.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        In order to switch between the two modes, I used the "C" button on the Nunchuck and set up the Arduino to record the past 4 button entries. Since "Z" is used to drive the board, the idea is to have every command begin by pressing "C" and then the next three button presses would signal the command. This configuration gives me 8 command options (2^3) which could easily be increased by increasing the length of the code or by introducing other signal options like joy-stick movement or accelerometer excitation.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        Currently, the only active command is "CCCC" which transitions to and from the "Training Wheels Mode", but I'm looking to add more as I increase the functionality of the board.
+                        <br>
+                    </pp>
+                </dd>
+                <br>
+                
+                
+                
+                <dt class="itemHead">
+                    Version 1.2: &nbsp; "Prisma"
+                </dt>
+                <br>
+                <dd class="itemDescription">
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        In this version change I focused on improving the boards overall aesthetics.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        I stripped it of everything so that it was just the wooden board and some grip tape. I then sanded the board, removing all of the old paint and smoothing out all of the old dings and scratches. Once I had the board as just plain wood, I sanded to a high grit (160 parts per inch) and then began painting it. Inspired slightly by George Braques' Cubism and also Berkeley's campus art and school colors I designed and painted the board that you can see in the above photo. The colors were spray painted on in three layers and the wood was sanded, stained, and varnished.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        On the top side of the board, the grip tape in the center was stripped away and the wood was sanded down and then stained and varnished. I also then painted my initials onto the center using acrylic paints and a stencil that I had printed. After that I painted the grip tape purple, then changed my mind and painted it blue and painted the screw heads yellow.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        I then remounted the rest of the board, painting each component as I went along. Eventually the board came back together and by that point I felt like it deserved a name so, in reference to the triangular features, sharp angles, and bright colors on the board, I named it "Prisma" a sort-of "female version" of the word: prism.
+                        <br>
+                    </pp>
+                </dd>
+                <br>
+            
+                
+                <dt class="itemHead">
+                    Version 1.1: &nbsp; Less Zip Ties/Duct Tape
+                </dt>
+                <br>
+                <dd class="iteamDescription">
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        For this version I was determined to make the board more robust and remove all of the duct tape, ziplock bags, and zip-ties.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        First, I hardwired and soldered all of the Arduino compoenents, removing the pin headers in order to ensure a more rigid connection. Then I fastened down all of my components with various 3D printed pieces. The wires were held down using "U" shaped wire fixings which were then screwed to the board; the ESC and arduino were housed inside of a combined box which completely covered the arduino to water-proof it and which left the top of the ESC's housing partially open to allow the fan to cool it; the battery was also housed using "U" shaped clamps and velcro to allow it to be removable; and all of the wires received an exterior wrapping in electrical tape to clean things up. Also, I designed the housing for the Arduino to be able to hold 2 blue LEDs (Light Emitting Diodes) and programmed them to "breathe" (fade on an off slowly) in order to highlight the Arduino as the boards "brain" and to give it a futuristic look and feel.
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                        This version worked well, but was relatively unappealing aesthetically, had too much play in the drive-train due to the odd shape of the truck and the hand-sawed bracket,  and also still had a large hole in the center from an odl project I had attempted with this board where I had mounted a cantelevered pvc pipe through there to stomp on and use as a brake.
+                        <br>
+                    </pp>
+                </dd>
+                <br>
+                
+                <dt class="itemHead"> 
+                    Version 1.0
+                </dt> 
+                <br>
+                <dd class="itemDescription">
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                        Now with a much improved controller mechanism (the Wii-Nunchuck compared to a potentiometer), I was very excited to try out my prototyped. This featured, as most prototypes do, all of the hardware, first versions of the software, lots of duct-tape, and a handful of zipties. 
+                    </pp>
+                    <pp>
+                        <br>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                        I rewrote my code in order to incorporate the nunchuck and increased the boards safety by requiring that that Z button be pushed in order to engage the throttle or active brake (up and down on the joystick) and also by including a decay feature so that if the Z button is released while the board is in either a throttle or brake position, then the board reverts back to neutral using a linear decay. the idea being that if I fell and let go of the controller, then the board would go to neutral and if I let go of the button while riding it wouldn't decau so fast that it would throw me off. Over the course of editing the board I've changed the decay rate a couple of times, but the generally theory has worked well
+                        <br>
+                    </pp>
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    
+                        I then, very excitedly, hooked up the battery, stuck everything in ziplock bags to keep water from being splashed on them, duct taped everything to the bottom of the skateboard, put on a helmet, and stepped on it for the first time. In that initially test it rode relatively well and I was very very satisfied with how it was working. I rode for approximately an hour and a half before stopping because I drained the battery.
+                    </pp>
+                </dd>
+                <br>
+                
+                
+                
+                <dt class="itemHead"> 
+                    Prototype 
+                </dt>
+                <br>
+                <dd class="itemDescription">
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                        With all of the parts ready, I assembled the first rendition of the board, mounting the motor, attaching the gear to the wheel, and coding a basic signal output protocol for the arduino. Eventually everything was setup and I was successfully able to run the wheel using an arduino and a potentiometer to control the arduino's signal. 
+                    </pp>
+                    <br>
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                        This iteration however, was never actually ridden. I had planned on attempting to use a potentiometer as the controller before I found a better solution, but it proved to be to fidgety and was unable to provide smooth enough acceleration to be ridden. Instead I began looking for other controllers around my house and discovered that my brother had a bunch of unused Wii-Nunchucks.
+                    </pp>
+                    <br>
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                        I was quick to disassemble one and learned that it ran using four wires (power, ground, clock, and signal) to transmit a an I2A signal. I wired the nunchuck up to the arduino, configured the code  and was able to get signal from the nunchuck's 2 buttons, 2 accelerometers, and 2 axis joy-stick. I was so excited by the usefulness of the nunchuck, the low cost (~$6 on Amazon), and the video game vibe that it brought the the project that I not only quickly bought my brother a replacement but I also bought myself a couple more for future projects.
+                    </pp>
+                
+                </dd>
+                <br>
+                
+                
+                
+                <dt class="itemHead">
+                    Putting it All Together
+                </dt>
+                <br>
+                <dd class="itemDescription">
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                        Luckily enough, once I got all of the components together, ran a bunch of tests, and edited some code, I was able to get all of the parts to function together and communicate. 
+                    </pp>
+                    <br>
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                        At this point, I started building the bracket to mount the motor. I was unfortunately lacking in machining tools, so I spent hours with a drill, metal saw, and file getting a bracket which somewhat fit; however, due to the odd shape of skateboard trucks, it did not fit very well and was held in place with zip-ties with the intent being that I would eventually weld it.
+                    </pp>
+                    <br>
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        Now that all of the parts were together I finally began mounting things to the board and finished the prototype.
+                    </pp>
+                </dd>
+                <br>
+                
+                
+                
+                <dt class="itemHead">
+                    Prepping for the Build
+                </dt>
+                <dd class="itemDescription">
+                    <br>
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        I spent a lot of time learning about ESCs (electronic speed controllers), LiPo (lithium polymer) Batteries, and brushless DC (direct current) motors because each was a relatively expensive part and I wanted to be sure that I was getting parts that would all fit together. I also spent some time researching transmitters and receivers, but learned that arduino's PWM (pulse width modulation) output can be used to drive the ESC so I decided to use that to send the signal to the ESC because, by using the arduino, I can edit every aspect of the control signal's code giving me much more freedom to control how the board rides. Also, I would be able to use the arduino to control other aspects of the board as well.
+                    </pp>
+                    <br>
+                    <pp>
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        Eventually, I decided on general compenets and began ordering things. I got a Turnigy Aerodrive Brushless DC motor with 270 KV (rpm per volt), a 120 Amp HobbyWing ESC, and a 5000mAh LiPo battery on Amazon and I bought new skateboard trucks and longboard wide wheels at a local surf/skate shop. I also purchased a large gear for the wheel, a belt for power transmission, and a small gear for the motor spindle from SPD-SI. In terms of the board itself, my dad found it abandoned in the park a couple of years ago, so I was excited to repurpose it and I didn't feel at all apprehensive about drilling countless holes into it.
+                        <br>
+                    </pp>
+
+                </dd>
+            </dl>
+        </div>
+        
+        
+        <!--Bottom Links-->
+        <br>
+        <hr width="40%">
+        <hr width="80%">
+        <hr width="40%">
+        <p class="bottomText">
+            <b>Phone:</b> <a href="tel:1-310-430-8805">1(310) 430-8805</a>
+            <br>
+            <b>Email:</b> 
+            <a href="mailto:rkcosner@berkeley.edu"> rkcosner@berkeley.edu</a>
+            &nbsp; &nbsp; &nbsp; &nbsp; <b>LinkedIN:</b> <a href="https://www.linkedin.com/in/ryan-cosner-980836105"> Ryan Cosner</a>
+            <br>
+            <b>Resume/CV</b>: <a href="https://drive.google.com/uc?id=0B_I3BR7HVLyhYTdESk5qaUpPX2M">RkcosnerResume.pdf</a> &nbsp; (Last Updated: 8/9/2017)
+            <br>
+            <b>©RyanKCosner</b>
+        </p>
+        
+        
+    </body>
+</html>
