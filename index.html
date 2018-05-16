@@ -1,463 +1,405 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <!-- Made with love by RyCos -->
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> RKC Project Home </title>
-        <link href="./Style&Images/css.css" rel="stylesheet">
-        <script type=text/javascript src="./JSScripts/Test1.js"></script>
-        <script type=text/javascript src="./JSScripts/ImageSelection.js"></script>
-        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
-        <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+<!doctype html>
+<html lang="en">
+	<head>
+        <title>MyCompany - ZyPop Web Templates</title>
 
-        <script>
-            startUp();
-        </script>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	</head>
 
+        <!-- Main CSS --> 
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- Font Awesome -->
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    </head>
+  
     <body>
 
-        <div class="title">
-            <ul>
-                <li class="headTitle">
-                    <i>
-                        Ryan Cosner Project Home
-                    </i>
-                </li>
-                <li class="about">
-                    <a class="aboutLinks" href="aboutTheAuthor.html">
-                        About the Author
-                    </a>
-                </li>
-                <li class="about">
-                    <a class="aboutLinks"
-                       href="aboutThisSite.html">
-                        About this Site
-                    </a>
-                </li>
-            </ul>
-        </div>
-        <div class="w3-content w3-display-container">
-            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhQUF0eDRVNVQ5enc" style="width:100%">
-            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhbVNZQUpvdjU2X0U" style="width:100%">
-            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhVnB1UEdqRnR0YXM" style="width:100%">
-            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhaDROQXgzWmM5OEU" style="width:100%">
+        <!-- Main navigation -->
+        <nav class="navbar navbar-expand-md navbar-dark">
+            <div class="container">
 
-            <button class="w3-button w3-display-left" onclick="plusDivs(-1)">
-                &#10094;
-            </button>
-            <button class="w3-button w3-display-right" onclick="plusDivs(+1)">
-                &#10095;
-            </button>
-        </div>
+                <!-- Company name shown on mobile -->
+                <a class="navbar-brand" href="#">Company<span>Name</span></a>
 
-        <script>
-            var slideIndex = 1;
-            showDivs(slideIndex);
+                <!-- Mobile menu toggle -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-            function plusDivs(n) {
-                showDivs(slideIndex += n);
-            }
+                <!-- Main navigation items -->
+                <div class="collapse navbar-collapse" id="mainNavbar">
+                    <ul class="navbar-nav mr-auto justify-content-end">
+                        <li class="nav-item active">
+                                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                        </li>
 
-            function showDivs(n) {
-                var i;
-                var x = document.getElementsByClassName("mySlides");
-                if (n > x.length) {slideIndex = 1}
-                if (n < 1) {slideIndex = x.length}
-                for (i = 0; i < x.length; i++) {
-                    x[i].style.display = "none";
-                }
-                x[slideIndex-1].style.display = "block";
-            }
-        </script>
+                        <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Examples &amp; Pages</a>
+                                    <div class="dropdown-menu navbar-dark bg-primary">
+                                          <a class="dropdown-item" href="examples.html">Style Examples</a>
+                                          <a class="dropdown-item" href="three-column.html">Three Column</a>
+                                          <a class="dropdown-item" href="one-column.html">One column / no sidebar</a>
+                                          <a class="dropdown-item"  href="text.html">Text / left sidebar</a>
+                                    </div>
+                        </li>
 
 
+                        <li class="nav-item">
+                                <a class="nav-link" href="#">Services</a>
+                        </li>
 
-        <div class="listHeader">
-                Projects
-                <hr>
-        </div>
-        <div class="projList">
-            <dl>
+                        <li class="nav-item">
+                                <a class="nav-link" href="#">Products</a>
+                        </li>
 
-                <!-- This Website -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhR1FIcFViLUlyQkk" />
-                        June 2017 - Present:
-                        <a href="./projectPages/thisSite.html">
-                            This Website
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A website built, from scratch without a traditional Wordpress/Weebly/ETC template. Designed and coded entirely from the ground up: HTML, CSS, JavaScript, and all.
-                </dd>
-                <br>
-                </div>
-                <br>
+                        <li class="nav-item">
+                                <a class="nav-link" href="#">Contact</a>
+                        </li>
+                    </ul>
 
-                <!-- The Skateboard -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhX0tuTFNuUXc0WFk" />
-                        June 2017 - Present :
-                        <a href="./projectPages/eBoard.html">
-                            Electric Skateboard
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A high torque motorized skateboard which features a Wii-Nunchuck remote, a fully programmable  arduino controller, and 3D printed housings.
-                </dd>
-                <br>
-                </div>
-                <br>
-
-                <!-- INvent Teaching Project -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhNGpMTUlfRTcwaTQ />
-                        Summer 2017: <b><u> Teaching Abroad in Peru</u> </b>
-                        <!--<a href="./projectPages/utk.html">
-                            Teaching abroad in Peru
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    Lessons teaching basic Computer Science (coding), Electrical Engineering (Arduino based), and Mechanical Engineering Design (Fusion360 and 3D printing) for Colegio Santa Maria in Chincha, Peru.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- INvent Quadrapelegic Mouse Projcet -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyheS1fNEViNkJQM1U />
-                        Summer 2017: <b> <u>Computer Mouse for the Handicapped</u></b>
-                        <!--<a href="./projectPages/utkMouse.html">
-                            Computer Mouse for the Handicapped
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                This was one of the most significant projects that I worked on while in Peru. It is a computer mouse which quadrepalegic people can control with their mouth and breath. Although it was not an original idea, I learned a lot from having to work with only the limited tools that we had with us.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- The Quadcopter -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhT2N0Z19RU0Q3RTQ" />
-                        June 2017 - Present :
-                        <a href="./projectPages/quadcopter.html">
-                            250mm FPV Quadcopter
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A high-speed, lightweight quadcopter with First-Person-View (FPV) built from the groundup with the intent of eventually adding altitude-hold capabilities to film and aid the UC, Berkeley Marching Band or the Mira Costa High School Marching Band.
-                </dd>
-                <br>
-                </div>
-                <br>
-
-
-                <!-- ME 106 Fluid Modeling Projects (plus visualization)-->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhelZDVWh4LW1lMXM />
-                        Spring 2017:
-                        <a href="./projectPages/fluids.html">
-                            Fluid Flow
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    Various fluid studies including a Lagrangian particle flow model developed in MATLAB, a fluid flow study done using Ansys Fluent, and a flow experiment using dry-ice and a variety of fluid visualization techniques.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- E27 Bridge Project -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhZmRLa3lPNWJsWkE />
-                        Spring 2017:
-                        <a href="./projectPages/bridge.html">
-                            3D Printed Bridge
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A lightweight, highly-toleranced, and rigid 12 inch bridge manufactured in 5 parts using a 3D printer and PLA material. Capable of supporting ~350lbs using only the frictional force created by two veritcal mounting poles.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- TAFLab Research -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhbm5sZWZReE00WU0 />
-                        Summer 2016 and Spring 2017:
-                        <a href="./projectPages/calwave.html">
-                            Wave Energy Research
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    Research on load propagation due to ocean waves rolling over rigid platforms, particularly in stormy and extreme weather conditions. Also, component testing to determine moments of inertia, spring constants, max-torques, etc. as well as mooring design.
-                </dd>
-                </div>
-                <br>
-
-
-                <!--George's Box Project -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhRU5ZRHkxUFhDTmc />
-                        Summer 2016:
-                        <b><u> 3D Printed Housing for Microfluidics Device</u></b>
-                        <!--<a href="./projectPages/printedHousing.html">
-                            3D printed Housing for a Microfluidics Device
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A 3D printed housing device used to hold various components of a microfluidic cancer cell detection system.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- E7 Marching Band Project -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhZFE3QUdneW9jUVU />
-                        Spring 2016:
-                        <a href="./projectPages/band.html">
-                            MATLAB Algorithms for the Marching Band
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    An algorithm developed to help the University of California Marching Band plan their movements and avoid colisions during their during their halftime shows.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- E25 Fan Blade Project -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhTV9HWkhIMHFZYms />
-                        Spring 2016: <b> <u> 3D Printed Wind Turbine</u></b>
-                        <!--
-                        <a href="./projectPages/turbine.html">
-                            3D Printed Wind Turbine
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A NACA Airfowl-based, high-efficiency, 3D-printed wind turbine and support structure.
-                </dd>
-                </div>
-                <br>
-
-
-                <!--HPV's over the Years -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhZWs2RGl2c1NSZnc />
-                        Fall 2015 - Present: <b> <u> Human Powered Vehicles</u></b>
-                        <!--
-                        <a href="./projectPages/hpvs.html">
-                            Human Powered Vehicles
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    "Super Bikes" meant to go as fast as possible without any motor or engine. These vehicles are built by a team at Berkeley which competes annually in the ASME competition and is shooting to break the unassisted land speed record at Battle Mountain.
-                </dd>
-                </div>
-                <br>
-
-
-
-                <!-- LABiomed Research -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhYThybkVYVTIwSXM />
-                        Summer 2015: <u> Novel Genetic Disease Testing</u>
-                        <!--
-                        <a href="./projectPages/labiomed.html">
-                            Novel Genetic Disease Testing
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    Research regarding MPSI (Mucopolysacharidosis Type 1) and our ability to detect efective treatment based on measurements of lysosomal proteins; a method much easier and safer than the traditional method of using radioactive iodine.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- Boeing Carbon Nanotubes -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyha21EYmdxUDdRcVk />
-                        Summer 2014:
-                        <a href="./projectPages/boeingCarbon.html">
-                            Carbon Nanotube Research
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    Conducted research on the thermal properties of carbon nanotubes to determine possible uses for them on satellites.
-                </dd>
-                </div>
-                <br>
-
-
-
-                <!-- Boeing Satellite Modeling Tool -->
-                <div class="projectItem">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhNDNiWTdlSE1qNlU />
-                        Summer 2014:
-                        <a href="./projectPages/boeingModel.html">
-                            Quick Prototyping Tool
-                        </a>
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A tactile tool to be used in the early development and planning stages of satellite dsign in Boeing's Satellite Design Center.
-                </dd>
-                </div>
-                <br>
-
-
-                <!-- The Marimba -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhcEtMY0JKTEp6R28 />
-                        Spring 2014: <u> HVS Mariba</u><!--
-                        <a href=./projectPages/marimba.html>
-                            HVS Marimba
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    Hermosa Valley School's Marimba and My Eagle Project. A fully functional musical instrument and also my first experiments with CAD.
-                </dd>
-                <br>
-                </div>
-                <br>
-
-
-                <!-- Roxy The RX7 -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhampVYkFFVDJyaFk />
-                        November 2013 - Present: <u> 1980 Mazda RX7</u>
-                        <!--
-                        <a href=./projectPages/roxy.html>
-                            1980 Mazda RX7
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    A 1980 Mazda RX7 with a Wankel Rotary Engine and replaced or refurbished electrical system, radio, antenna, exhaust, brakes, steering rack, windows, doors, locks, suspension, and transmission, amongst other things.
-                </dd>
-                <br>
-                </div>
-                <br>
-
-                <!-- Trebuchet -->
-                <div class="projectItem">
-                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
-                <!-- Sci-Oly Trebuchet Project -->
-                <dt>
-                    <h3>
-                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhN2VKU1RCc1RDcWc />
-                        Spring 2013: <u> Science Olympiad Trebuchet</u> <!--
-                        <a href="./projectPages/trebuchet.html">
-                            Science Olympiad Trebuchet
-                        </a>-->
-                    </h3>
-                </dt>
-                <dd class="projText">
-                    The first project that I completed in which I really applied science that I learned in school, recorded data, and performed some  stastistical analysis: A accurate projectile device designed for the Southern California Science Olympiad Competition.
-                </dd>
                 </div>
 
 
 
-            </dl>
-            <br>
-        </div>
-
-            <!-- Back to Top -->
-            <div class="backToTop" >
-                <a class="backToTopLink" href=# >
-                    Back to Top
-                </a>
             </div>
-            <div class="bottomLine">
-                <br>
-                <hr width="40%">
-                <hr width="80%">
-                <hr width="40%">
+        </nav>
+
+
+
+        <!-- Jumbtron / Slider -->
+        <div class="jumbotron-wrap jumbotron-image mb-0">
+            <div class="container">
+                <div id="mainCarousel" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="jumbotron">
+                                <h1 class="text-center">Tristique sem vitae metus ornare </h1>
+                                <p class="lead text-center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                <p class="lead text-center">
+                                    <a class="btn btn-primary btn-lg" href="#" role="button"><i class="fa fa-info"></i> &nbsp; Learn more</a>
+                                    <a class="btn btn-secondary btn-lg" href="#" role="button"><i class="fa fa-gbp"></i> &nbsp; Buy now</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="carousel-item">
+                            <div class="jumbotron">
+                                <h1 class="text-center">Cras sit amet nibh libero, in gravida nulla</h1>
+                                <p class="lead text-center">Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+                                <p class="lead text-center">
+                                    <a class="btn btn-secondary btn-lg" href="#" role="button"><i class="fa fa-gbp"></i> &nbsp; Buy now</a>
+                                    <a class="btn btn-primary btn-lg" href="#" role="button"><i class="fa fa-info"></i> &nbsp; Learn more</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <a class="carousel-control-prev" href="#mainCarousel" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#mainCarousel" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
             </div>
+        </div>
+        
+        
+        <!-- Main content area -->
+        <div class="card-container">
+            <div class="container">
+   
+                <div class="text-center padded-box pb-0">
+                        <h2>Aenean nec massa a tortor</h2>
+                        <p class="lead">Quisque sagittis, est in laoreet semper, enim dui consequat felis, faucibus ornare urna velit nec leo. Maecenas condimentum velit vitae est lobortis fermentum. In tristique sem vitae metus ornare luctus tempus nisl volutpat. Integer et est id nisi tempus pharetra sagittis et libero.</p>
+
+                </div>
+                
+
+
+                <div class="padded-box row">
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic1.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text">Integer dictum sed nibh vitae imperdiet. Nam suscipit lorem nec dui viverra vestibulum. </p>
+                            <a href="#" class="btn btn-primary">Left link</a>
+                              <a href="#" class="btn btn-secondary">Right link</a>
+                          </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic2.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text">Morbi iaculis, justo vitae dignissim aliquam, quam eros vehicula est, facilisis ultrices mi nunc eget lacus.</p>
+                             <a href="#" class="btn btn-primary">Left link</a>
+                              <a href="#" class="btn btn-secondary">Right link</a>
+                          </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic3.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <p class="card-text">Nam lacinia aliquet tempus. Sed vitae semper augue. Vestibulum pulvinar laoreet egestas.  </p>
+                             <a href="#" class="btn btn-primary">Left link</a>
+                              <a href="#" class="btn btn-secondary">Right link</a>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+
+                <div class="padded-box row">
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic4.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <blockquote class="card-text">In tristique sem vitae metus ornare luctus tempus nisl volutpat. Integer et est id nisi tempus pharetra sagittis et libero.</blockquote>
+                            <p class="card-text quote-text">- Joe Bloggs, <a href="#">A Company</a></p>
+                          </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <blockquote class="card-text">Aenean non libero vestibulum, finibus lacus quis, ullamcorper diam. Ut quis sollicitudin mi, dignissim ultrices elit. </blockquote>
+                            <p class="card-text quote-text">- Jane Doe, <a href="#">Marketing Business</a></p>
+                          </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card text-center">
+                          <img class="card-img-top" src="images/pic6.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <blockquote class="card-text">Quisque faucibus neque sodales, suscipit nisi vitae, placerat nisi. Nam cursus molestie posuere. Mauris fringilla condimentum lacus. </blockquote>
+                            <p class="card-text quote-text">- Annaleigh Rose, <a href="#">CEO</a></p>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        <!-- Coloured bg jumbotron -->
+        <div class="colored-bg-container jumbotron-wrap">
+            <div class="container">
+                <div class="jumbotron px-0">
+                     <h2>Lorem lipsum</h2>
+                    <p class="lead">Quisque sagittis, est in laoreet semper, enim dui consequat felis, faucibus ornare urna velit nec leo. Maecenas condimentum velit vitae est lobortis fermentum. In tristique sem vitae metus ornare luctus tempus nisl volutpat. Integer et est id nisi tempus pharetra sagittis et libero.</p>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        
+        <main class="container">
+            <div class="row">
+                
+                <!-- Main content -->
+                <div class="col-md-8">
+                    <article>
+                        <h2 class="article-title">Introduction to float</h2>
+
+                        <p class="article-meta">Posted on <time datetime="2017-05-14">14 May</time> by <a href="#" rel="author">Joe Bloggs</a></p>
+
+                        <p>Welcome to float, a free CSS3 &amp; HTML5 responsive web template from <a href="https://zypopwebtemplates.com/" title="ZyPOP">ZyPOP</a>. This template is completely <strong>free</strong> to use permitting a link remains back to  <a href="https://zypopwebtemplates.com/" title="ZyPOP">https://zypopwebtemplates.com/</a>.</p>
+
+                        <p> Should you wish to use this template unbranded you can buy a template license from our website for 8.00 GBP, this will allow you remove all branding related to our site, for more information about this see below.</p>	
+
+                        <p>This template has been tested in:</p>
+
+                        <ul>
+                            <li>Firefox</li>
+                            <li>IE / Edge</li>
+                            <li>Chrome</li>
+                            <li>Safari</li>
+                            <li>iOS / Android</li>
+                        </ul>
+
+                        <a href="#" class="btn btn-primary">Read more</a>
+                        <a href="#" class="btn btn-secondary">Comments</a>
+
+                    </article>
+
+                    <article>
+
+                        <h2 class="article-title">Buy unbranded</h2>
+                        <p class="article-meta">Posted on <time datetime="2013-05-14">14 May</time> by <a href="#" rel="author">Joe Bloggs</a></p>
+
+                        <p>Purchasing a template license for 8.00 GBP (at time of writing around 12 USD) gives you the right to remove any branding including links, logos and source tags relating to ZyPOP. As well as waiving the attribution requirement, your payment will also help us provide continued support for users as well as creating new web templates. Find out more about how to buy at the licensing page on our website which can be accessed at <a href="https://zypopwebtemplates.com/licensing" title="template license">https://zypopwebtemplates.com/licensing</a></p>
+
+                        <h3>Lorem lipsum</h3>
+
+                        <p>Morbi fermentum condimentum felis, commodo vestibulum sem mattis sed. Aliquam magna ante, mollis vitae tincidunt in, malesuada vitae turpis. Sed aliquam libero ut velit bibendum consectetur. Quisque sagittis, est in laoreet semper, enim dui consequat felis, faucibus ornare urna velit nec leo. Maecenas condimentum velit vitae est lobortis fermentum. In tristique sem vitae metus ornare luctus tempus nisl volutpat. Integer et est id nisi tempus pharetra sagittis et libero.</p>
+
+                        <a href="#" class="btn btn-primary">Read more</a>
+                        <a href="#" class="btn btn-secondary">Comments</a>
+                    </article>
+
+
+                    <!-- Example pagination Bootstrap component -->
+                    <nav>
+                        <ul class="pagination">
+                                <li class="page-item">
+                                    <a class="page-link" href="#" aria-label="Previous">
+                                        <span aria-hidden="true">&laquo;</span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                </li>
+                                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item active"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#" aria-label="Next">
+                                        <span aria-hidden="true">&raquo;</span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+                                </li>
+                        </ul>
+                    </nav>
+                </div>
+
+                
+                <!-- Sidebar -->
+                <aside class="col-md-4">
+                    <div class="sidebar-box">
+                        <h4>Categories</h4>
+                        <div class="list-group list-group-root">
+                            <a class="list-group-item active" href="index.html">Home Page</a>
+                            <a class="list-group-item" href="examples.html">Style Examples</a>
+                            <div class="list-group">
+                                <a class="list-group-item" href="three-column.html">Three Column</a>
+                                <a class="list-group-item" href="one-column.html">One column / no sidebar</a>
+                                <a class="list-group-item" href="text.html">Text / left sidebar</a>	
+                            </div>
+                            <a class="list-group-item" href="three-column.html">Three column layout example</a>
+                            <a class="list-group-item" href="#">Sed aliquam libero ut velit bibendum</a>
+                            <a class="list-group-item" href="#">Maecenas condimentum velit vitae</a>
+                        </div>
+                    </div>
+
+                    <div class="sidebar-box sidebar-box-bg">
+                        <h4>About us</h4>
+                        <p>Aenean nec massa a tortor auctor sodales sed a dolor. Duis vitae lorem sem. Proin at velit vel arcu pretium luctus. <a href="#" class="readmore">Read More &raquo;</a></p>    
+                    </div>
+
+                    <div class="sidebar-box">
+                        <h4>Search site</h4>
+                        <form class="form-inline my-2 my-lg-0">
+                            <input class="form-control mr-sm-2" type="text"  placeholder="Search" aria-label="Search">
+                            <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+                        </form>
+                    </div>
+
+                    <div class="sidebar-box">
+                        <h4>Helpful Links</h4>
+                        <ul>
+                            <li><a href="http://www.themeforest.net/?ref=spykawg" title="premium templates">Premium HTML web templates from $10</a></li>
+                            <li><a href="http://www.dreamhost.com/r.cgi?259541" title="web hosting">Cheap web hosting from Dreamhost</a></li>
+                            <li><a href="http://tuxthemes.com" title="Tux Themes">Premium WordPress themes</a></li>
+                        </ul>
+                    </div>
+                </aside> 
+                
+                
+            </div> 
+        </main>
+        
+        
+        
+        <!-- Gray bg jumbotron -->
+        <div class="gray-bg-container mb-0 jumbotron-wrap">
+            <div class="container">
+                <div class="jumbotron px-0">
+                     <h2>Lorem lipsum</h2>
+                    <p class="lead">Quisque sagittis, est in laoreet semper, enim dui consequat felis, faucibus ornare urna velit nec leo. Maecenas condimentum velit vitae est lobortis fermentum. In tristique sem vitae metus ornare luctus tempus nisl volutpat. Integer et est id nisi tempus pharetra sagittis et libero.</p>
+                </div>
+            </div>
+        </div>
+
+        
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-lists">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm">
+                            <ul>
+                                <li><h4>Proin accumsan</h4></li>
+                                <li><a href="#">Rutrum nulla a ultrices</a></li>
+                                <li><a href="#">Blandit elementum</a></li>
+                                <li><a href="#">Proin placerat accumsan</a></li>
+                                <li><a href="#">Morbi hendrerit libero </a></li>
+                                <li><a href="#">Curabitur sit amet tellus</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm">
+                            <ul>
+                                <li><h4>Condimentum</h4></li>
+                                <li><a href="#">Curabitur sit amet tellus</a></li>
+                                <li><a href="#">Morbi hendrerit libero </a></li>
+                                <li><a href="#">Proin placerat accumsan</a></li>
+                                <li><a href="#">Rutrum nulla a ultrices</a></li>
+                                <li><a href="#">Cras dictum</a></li>
+                            </ul>
+                        </div>   
+                        <div class="col-sm">
+                            <ul>
+                                <li><h4>Suspendisse</h4></li>
+                                <li><a href="#">Morbi hendrerit libero </a></li>
+                                <li><a href="#">Proin placerat accumsan</a></li>
+                                <li><a href="#">Rutrum nulla a ultrices</a></li>
+                                <li><a href="#">Curabitur sit amet tellus</a></li>
+                                <li><a href="#">Donec in ligula nisl.</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm">
+                            <h4>Suspendisse</h4>
+                            <p>Integer mattis blandit turpis, quis rutrum est. Maecenas quis arcu vel felis lobortis iaculis fringilla at ligula. Nunc dignissim porttitor dolor eget porta.</p>
+
+                            <p class="social-icons">
+                                <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                                <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                                <a href="#"><i class="fa fa-youtube fa-2x"></i></a>
+                                <a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="footer-bottom">
+                    <p class="text-center">Free Bootstrap Template by <a href="https://zypopwebtemplates.com/">ZyPop</a>.</p>
+                    <p class="text-center"><a href="#">Back to top</a></p>
+            </div>
+            
+        </footer>
 
 
 
+        <!-- Bootcamp JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
-
-        <!--Bottom Links-->
-        <p class="bottomText">
-            <b>Phone:</b> <a href="tel:1-310-430-8805">1(310) 430-8805</a>
-            <br>
-            <b>Email:</b>
-            <a href="mailto:rkcosner@berkeley.edu"> rkcosner@berkeley.edu</a>
-            &nbsp; &nbsp; &nbsp; &nbsp; <b>LinkedIN:</b> <a href="https://www.linkedin.com/in/ryan-cosner-980836105"> Ryan Cosner</a>
-            <br>
-            <b>Resume/CV</b>: <a href="https://drive.google.com/uc?id=0B_I3BR7HVLyhYTdESk5qaUpPX2M">RkcosnerResume.pdf</a> &nbsp; (Last Updated: 8/9/2017)
-            <br>
-            <b>©RyanKCosner</b>
-        </p>
     </body>
-
-
 </html>

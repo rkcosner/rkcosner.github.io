@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Made with love by RyCos -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title> RKC Project Home </title>
+        <link href="./Style&Images/css.css" rel="stylesheet">
+        <script type=text/javascript src="./JSScripts/Test1.js"></script>
+        <script type=text/javascript src="./JSScripts/ImageSelection.js"></script>
+        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
+        <script>
+            startUp();
+        </script>
+
+	</head>
+
+    <body>
+
+        <div class="title">
+            <ul>
+                <li class="headTitle">
+                    <i>
+                        Ryan Cosner Project Home
+                    </i>
+                </li>
+                <li class="about">
+                    <a class="aboutLinks" href="aboutTheAuthor.html">
+                        About the Author
+                    </a>
+                </li>
+                <li class="about">
+                    <a class="aboutLinks"
+                       href="aboutThisSite.html">
+                        About this Site
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="w3-content w3-display-container">
+            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhQUF0eDRVNVQ5enc" style="width:100%">
+            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhbVNZQUpvdjU2X0U" style="width:100%">
+            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhVnB1UEdqRnR0YXM" style="width:100%">
+            <img class="mySlides" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhaDROQXgzWmM5OEU" style="width:100%">
+
+            <button class="w3-button w3-display-left" onclick="plusDivs(-1)">
+                &#10094;
+            </button>
+            <button class="w3-button w3-display-right" onclick="plusDivs(+1)">
+                &#10095;
+            </button>
+        </div>
+
+        <script>
+            var slideIndex = 1;
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+                showDivs(slideIndex += n);
+            }
+
+            function showDivs(n) {
+                var i;
+                var x = document.getElementsByClassName("mySlides");
+                if (n > x.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = x.length}
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                x[slideIndex-1].style.display = "block";
+            }
+        </script>
+
+
+
+        <div class="listHeader">
+                Projects
+                <hr>
+        </div>
+        <div class="projList">
+            <dl>
+
+                <!-- This Website -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhR1FIcFViLUlyQkk" />
+                        June 2017 - Present:
+                        <a href="./projectPages/thisSite.html">
+                            This Website
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A website built, from scratch without a traditional Wordpress/Weebly/ETC template. Designed and coded entirely from the ground up: HTML, CSS, JavaScript, and all.
+                </dd>
+                <br>
+                </div>
+                <br>
+
+                <!-- The Skateboard -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhX0tuTFNuUXc0WFk" />
+                        June 2017 - Present :
+                        <a href="./projectPages/eBoard.html">
+                            Electric Skateboard
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A high torque motorized skateboard which features a Wii-Nunchuck remote, a fully programmable  arduino controller, and 3D printed housings.
+                </dd>
+                <br>
+                </div>
+                <br>
+
+                <!-- INvent Teaching Project -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhNGpMTUlfRTcwaTQ />
+                        Summer 2017: <b><u> Teaching Abroad in Peru</u> </b>
+                        <!--<a href="./projectPages/utk.html">
+                            Teaching abroad in Peru
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    Lessons teaching basic Computer Science (coding), Electrical Engineering (Arduino based), and Mechanical Engineering Design (Fusion360 and 3D printing) for Colegio Santa Maria in Chincha, Peru.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- INvent Quadrapelegic Mouse Projcet -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyheS1fNEViNkJQM1U />
+                        Summer 2017: <b> <u>Computer Mouse for the Handicapped</u></b>
+                        <!--<a href="./projectPages/utkMouse.html">
+                            Computer Mouse for the Handicapped
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                This was one of the most significant projects that I worked on while in Peru. It is a computer mouse which quadrepalegic people can control with their mouth and breath. Although it was not an original idea, I learned a lot from having to work with only the limited tools that we had with us.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- The Quadcopter -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src="https://drive.google.com/uc?id=0B_I3BR7HVLyhT2N0Z19RU0Q3RTQ" />
+                        June 2017 - Present :
+                        <a href="./projectPages/quadcopter.html">
+                            250mm FPV Quadcopter
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A high-speed, lightweight quadcopter with First-Person-View (FPV) built from the groundup with the intent of eventually adding altitude-hold capabilities to film and aid the UC, Berkeley Marching Band or the Mira Costa High School Marching Band.
+                </dd>
+                <br>
+                </div>
+                <br>
+
+
+                <!-- ME 106 Fluid Modeling Projects (plus visualization)-->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhelZDVWh4LW1lMXM />
+                        Spring 2017:
+                        <a href="./projectPages/fluids.html">
+                            Fluid Flow
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    Various fluid studies including a Lagrangian particle flow model developed in MATLAB, a fluid flow study done using Ansys Fluent, and a flow experiment using dry-ice and a variety of fluid visualization techniques.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- E27 Bridge Project -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhZmRLa3lPNWJsWkE />
+                        Spring 2017:
+                        <a href="./projectPages/bridge.html">
+                            3D Printed Bridge
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A lightweight, highly-toleranced, and rigid 12 inch bridge manufactured in 5 parts using a 3D printer and PLA material. Capable of supporting ~350lbs using only the frictional force created by two veritcal mounting poles.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- TAFLab Research -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhbm5sZWZReE00WU0 />
+                        Summer 2016 and Spring 2017:
+                        <a href="./projectPages/calwave.html">
+                            Wave Energy Research
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    Research on load propagation due to ocean waves rolling over rigid platforms, particularly in stormy and extreme weather conditions. Also, component testing to determine moments of inertia, spring constants, max-torques, etc. as well as mooring design.
+                </dd>
+                </div>
+                <br>
+
+
+                <!--George's Box Project -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhRU5ZRHkxUFhDTmc />
+                        Summer 2016:
+                        <b><u> 3D Printed Housing for Microfluidics Device</u></b>
+                        <!--<a href="./projectPages/printedHousing.html">
+                            3D printed Housing for a Microfluidics Device
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A 3D printed housing device used to hold various components of a microfluidic cancer cell detection system.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- E7 Marching Band Project -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhZFE3QUdneW9jUVU />
+                        Spring 2016:
+                        <a href="./projectPages/band.html">
+                            MATLAB Algorithms for the Marching Band
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    An algorithm developed to help the University of California Marching Band plan their movements and avoid colisions during their during their halftime shows.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- E25 Fan Blade Project -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhTV9HWkhIMHFZYms />
+                        Spring 2016: <b> <u> 3D Printed Wind Turbine</u></b>
+                        <!--
+                        <a href="./projectPages/turbine.html">
+                            3D Printed Wind Turbine
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A NACA Airfowl-based, high-efficiency, 3D-printed wind turbine and support structure.
+                </dd>
+                </div>
+                <br>
+
+
+                <!--HPV's over the Years -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhZWs2RGl2c1NSZnc />
+                        Fall 2015 - Present: <b> <u> Human Powered Vehicles</u></b>
+                        <!--
+                        <a href="./projectPages/hpvs.html">
+                            Human Powered Vehicles
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    "Super Bikes" meant to go as fast as possible without any motor or engine. These vehicles are built by a team at Berkeley which competes annually in the ASME competition and is shooting to break the unassisted land speed record at Battle Mountain.
+                </dd>
+                </div>
+                <br>
+
+
+
+                <!-- LABiomed Research -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhYThybkVYVTIwSXM />
+                        Summer 2015: <u> Novel Genetic Disease Testing</u>
+                        <!--
+                        <a href="./projectPages/labiomed.html">
+                            Novel Genetic Disease Testing
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    Research regarding MPSI (Mucopolysacharidosis Type 1) and our ability to detect efective treatment based on measurements of lysosomal proteins; a method much easier and safer than the traditional method of using radioactive iodine.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- Boeing Carbon Nanotubes -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyha21EYmdxUDdRcVk />
+                        Summer 2014:
+                        <a href="./projectPages/boeingCarbon.html">
+                            Carbon Nanotube Research
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    Conducted research on the thermal properties of carbon nanotubes to determine possible uses for them on satellites.
+                </dd>
+                </div>
+                <br>
+
+
+
+                <!-- Boeing Satellite Modeling Tool -->
+                <div class="projectItem">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhNDNiWTdlSE1qNlU />
+                        Summer 2014:
+                        <a href="./projectPages/boeingModel.html">
+                            Quick Prototyping Tool
+                        </a>
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A tactile tool to be used in the early development and planning stages of satellite dsign in Boeing's Satellite Design Center.
+                </dd>
+                </div>
+                <br>
+
+
+                <!-- The Marimba -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhcEtMY0JKTEp6R28 />
+                        Spring 2014: <u> HVS Mariba</u><!--
+                        <a href=./projectPages/marimba.html>
+                            HVS Marimba
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    Hermosa Valley School's Marimba and My Eagle Project. A fully functional musical instrument and also my first experiments with CAD.
+                </dd>
+                <br>
+                </div>
+                <br>
+
+
+                <!-- Roxy The RX7 -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhampVYkFFVDJyaFk />
+                        November 2013 - Present: <u> 1980 Mazda RX7</u>
+                        <!--
+                        <a href=./projectPages/roxy.html>
+                            1980 Mazda RX7
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    A 1980 Mazda RX7 with a Wankel Rotary Engine and replaced or refurbished electrical system, radio, antenna, exhaust, brakes, steering rack, windows, doors, locks, suspension, and transmission, amongst other things.
+                </dd>
+                <br>
+                </div>
+                <br>
+
+                <!-- Trebuchet -->
+                <div class="projectItem">
+                <img src="https://drive.google.com/uc?id=0B_I3BR7HVLyhWE5naEFCazk4T0E" class="underConstruction">
+                <!-- Sci-Oly Trebuchet Project -->
+                <dt>
+                    <h3>
+                        <img style="vertical-align:middle" class="circle" src=https://drive.google.com/uc?id=0B_I3BR7HVLyhN2VKU1RCc1RDcWc />
+                        Spring 2013: <u> Science Olympiad Trebuchet</u> <!--
+                        <a href="./projectPages/trebuchet.html">
+                            Science Olympiad Trebuchet
+                        </a>-->
+                    </h3>
+                </dt>
+                <dd class="projText">
+                    The first project that I completed in which I really applied science that I learned in school, recorded data, and performed some  stastistical analysis: A accurate projectile device designed for the Southern California Science Olympiad Competition.
+                </dd>
+                </div>
+
+
+
+            </dl>
+            <br>
+        </div>
+
+            <!-- Back to Top -->
+            <div class="backToTop" >
+                <a class="backToTopLink" href=# >
+                    Back to Top
+                </a>
+            </div>
+            <div class="bottomLine">
+                <br>
+                <hr width="40%">
+                <hr width="80%">
+                <hr width="40%">
+            </div>
+
+
+
+
+
+        <!--Bottom Links-->
+        <p class="bottomText">
+            <b>Phone:</b> <a href="tel:1-310-430-8805">1(310) 430-8805</a>
+            <br>
+            <b>Email:</b>
+            <a href="mailto:rkcosner@berkeley.edu"> rkcosner@berkeley.edu</a>
+            &nbsp; &nbsp; &nbsp; &nbsp; <b>LinkedIN:</b> <a href="https://www.linkedin.com/in/ryan-cosner-980836105"> Ryan Cosner</a>
+            <br>
+            <b>Resume/CV</b>: <a href="https://drive.google.com/uc?id=0B_I3BR7HVLyhYTdESk5qaUpPX2M">RkcosnerResume.pdf</a> &nbsp; (Last Updated: 8/9/2017)
+            <br>
+            <b>©RyanKCosner</b>
+        </p>
+    </body>
+
+
+</html>
