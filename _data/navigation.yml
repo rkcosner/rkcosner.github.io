@@ -1,0 +1,9 @@
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Errata"
+    url: /errata/
+  - title: "Resume"
+    url: /resume/
+  - title: "Blogs"
+    url: /blogs/
