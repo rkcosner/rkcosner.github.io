@@ -96,51 +96,28 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Cosner"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "2nd year Caltech PhD student studying controls, robotics, and safety."
+  avatar           : "/assets/images/Favicon.jpg"
+  bio              : "Caltech Mechanical Engineering PhD student studying controls, robotics, and safety."
   location         : "Pasadena, CA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:rkcosner@caltech.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: https://github.com/rkcosner
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ryan-cosner-980836105/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/rkcosner"
+
 
 
 # Reading Files
@@ -284,30 +261,3 @@ defaults:
 
 include: ["_pages"]
 
-author_profile: true
-
-author:
-  name: "Ryan Cosner"
-  avatar: "/assets/images/Favicon.png"
-  bio: "Caltech 2nd year PhD Student studying controls, robotics, and safety." # Note: Markdown is allowed
-  location: "Pasadena, CA"
-  links:
-    #- label: "Made Mistakes"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://mademistakes.com"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/mmistakes"
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "rkcosner@caltech.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ryan-cosner-980836105/"
-    
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/mmistakes"
