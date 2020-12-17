@@ -5,17 +5,17 @@
 layout: single
 author_profile: true
 header: 
-  image: "/assets/images/Biking.jpg"
+  image: "/assets/images/CoverCropped.png"
 ---
 
 <div class="feature__wrapper">
     <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <img src="/assets/images/RocketLanding.png" alt="Research Image">    
+            <img src="/assets/images/amberSteppingStones.png" alt="Research Image">    
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Errata</h2>
+            <h2 class="archive__item-title">Research</h2>
             <div class="archive__item-excerpt">
             <p>To read more about my academic research projects either follow the link to my research page or visit my google scholar.</p>
             </div>
@@ -28,7 +28,7 @@ header:
     <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <img src="/assets/images/SpinningDryIceBlemishless.png" alt="Errata Image">    
+            <img src="/assets/images/baldyCropped.jpg" alt="Errata Image">    
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Errata</h2>
@@ -48,7 +48,7 @@ header:
             <div class="archive__item-excerpt">
             <p>For more details on my experiences please download my CV using the link below.</p>
             </div>
-            <p><a href="/cv/" class="btn btn--primary">View/Download CV</a></p>
+            <p><a href="/resume.pdf" class="btn btn--primary">View/Download CV</a></p>
         </div>
     </div>
     </div>
