@@ -19,7 +19,7 @@ header:
             <div class="archive__item-excerpt">
             <p>To read more about my academic research projects either follow the link to my research page or visit my google scholar.</p>
             </div>
-            <p><a href="/research/" class="btn btn--primary">View Errata</a></p>
+            <p><a href="/research/" class="btn btn--primary">View Research</a></p>
         </div>
     </div>
     </div>
