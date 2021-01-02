@@ -1,0 +1,33 @@
+---
+layout: archive
+title:  "L4DC 2020: Episodic Learning for Safe Bipedal Locomotion with Control Barrier Functions and Projection-to-State Safety"
+date:   2020-1-1 4:35:00 -0800
+categories: Research
+tags: [Publications]
+---
+**Abtract**: This paper combines episodic learning and control barrier functions (CBFs) in the setting of bipedal locomotion. The safety guarantees that CBFs provide are only valid with perfect model knowledge; however, this assumption cannot be met on hardware platforms. To address this, we utilize the notion of Projection-to-State Safety paired with a machine learning framework in an attempt to learn the model uncertainty as it effects the barrier functions. The proposed approach is demonstrated both in simulation and on hardware for the AMBER-3M bipedal robot in the context of the stepping-stone problem which requires precise foot placement while walking dynamically.
+
+This is work performed in collaboration with Noel Csomay-Shanklin, Min Dai, Andrew Taylor, and Aaron Ames (Caltech). It was originally submitted to the 2021 Learning for Dynamics and Control (L4DC) Conference. <!--The extended publication can be found [here](https://arxiv.org/pdf/2010.16001.pdf).-->
+
+Below is a simplified version of the paper meant for a general audience. (This one's for you mom!)
+
+# The rest of this post is still in progress
+
+<!--
+# Introduction 
+Safety if important
+
+# Background 
+CBFs 
+
+# Model Uncertainty and Projection-to-State Safety
+
+# Learning Projected Disturbances
+
+# Bipedal Robotics
+
+# Simulation and Experimental Validation
+
+# Conclusion
+
+-->
