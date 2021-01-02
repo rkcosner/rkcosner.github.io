@@ -23,8 +23,8 @@ Checkout these blog posts for brief and high-level introductions on some of thes
   * [Control and Dynamical Systems](/blogs/Control-Theory)
 
 {% for tag in site.tags %}
-{% if ({tag[0]} == "Publication") or ({tag[0]} == "Project") %}
-<h2>{{tag[0]}}s</h2>
+{% if ({tag[0]} == "Publications") or ({tag[0]} == "Projects") %}
+<h2>{{tag[0]}}</h2>
 <ul>
 {% for post in tag[1] %}
 <li>

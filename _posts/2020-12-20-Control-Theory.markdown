@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "Control and Dynamical Systems Crash Course"
+title:  "Control and Dynamical Systems"
 date:   2020-12-20 4:35:00 -0800
 categories: Blogs
 tags : [Blog]
