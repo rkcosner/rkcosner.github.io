@@ -49,7 +49,7 @@ header:
             <div class="archive__item-excerpt">
             <p>For more details on my experiences please download my CV using the link below.</p>
             </div>
-            <p><a href="/resume.pdf" class="btn btn--primary">View/Download CV</a></p>
+            <p><a href="/resume.pdf" class="btn btn--primary">Download CV</a></p>
         </div>
     </div>
     </div>
