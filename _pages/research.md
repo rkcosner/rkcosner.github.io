@@ -21,8 +21,7 @@ My research focuses on Controls, Robotics, and Safety.
 
 Checkout these blog posts for brief and high-level introductions on some of these topics:
   * [Control and Dynamical Systems](/blogs/Control-and-Dynamical-Systems)
-  <!-- * [Control Barrier Functions](/blogs/Control-Barrier-Functions)
-  * [Stereo Vision](/blogs/StereoVision) -->
+
 
 {% for tag in site.tags %}
 {% if ({tag[0]} == "Publications") or ({tag[0]} == "Projects") %}
