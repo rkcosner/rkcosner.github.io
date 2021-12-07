@@ -47,11 +47,12 @@ header:
         <div class="archive__item-body">
             <h2 class="archive__item-title">Curriculum Vitae (CV)</h2>
             <div class="archive__item-excerpt">
-            <p>For more details on my experiences please download my CV using the link below.</p>
+            <p>For more details on my experiences please download my CV using the link below. Last updated (11/15) </p>
             </div>
             <p><a href="/assets/files/Resume.pdf" class="btn btn--primary">Download CV</a></p>
         </div>
     </div>
     </div>
+
 </div>
 
