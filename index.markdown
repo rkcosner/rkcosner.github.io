@@ -17,7 +17,7 @@ header:
         <div class="archive__item-body">
             <h2 class="archive__item-title">Research</h2>
             <div class="archive__item-excerpt">
-            <p>To read more about my academic research projects either follow the link to my research page or visit my <a href="https://scholar.google.com/citations?user=9XSMo-AAAAAJ&hl=en&oi=ao" > <em><strong>google scholar</strong></em></a>
+            <p> Bloop1 To read more about my academic research projects either follow the link to my research page or visit my <a href="https://scholar.google.com/citations?user=9XSMo-AAAAAJ&hl=en&oi=ao" > Success.<em><strong>google scholar</strong></em></a>
             </p>
             </div>
             <p><a href="/research/" class="btn btn--primary">View Research</a></p>
