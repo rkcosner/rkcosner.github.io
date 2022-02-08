@@ -17,7 +17,8 @@ defaults:
       share: true
       related: true
 ---
-My research focuses on Controls, Robotics, and Safety. Look [here](/blogs/Thesis) for an ever-evolving outline of my thesis direction. 
+My research focuses on Controls, Robotics, and Safety. 
+<!-- Look [here](/blogs/Thesis) for an ever-evolving outline of my thesis direction.  -->
 
 Checkout these blog posts for brief and high-level introductions on some of these topics:
   * [Control and Dynamical Systems](/blogs/Control-and-Dynamical-Systems)

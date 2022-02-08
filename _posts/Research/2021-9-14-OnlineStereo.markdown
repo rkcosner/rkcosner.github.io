@@ -6,19 +6,9 @@ categories: Research
 tags: [Publications]
 ---
 
-<!-- 
-<p style="text-align: center;">
-<a href="http://www.rkcosner.com/">Ryan K. Cosner*</a>,
-<a href="https://ivandariojr.io/"> Ivan D. Jimenez-Rodriguez*</a>,
-<a href="https://www.its.caltech.edu/~tmolnar/"> Tamas G. Molnar</a>,   
-Wyatt Ubellacker,
-<a href="http://www.yisongyue.com//"> Yisong Yue</a>,
-<a href="http://ames.caltech.edu/"> Aaron D. Ames </a>,
-<a href="http://users.cms.caltech.edu/~klbouman/"> Katherine L. Bouman</a>
-</p> -->
 
 [**Ryan K. Cosner**](http://www.rkcosner.com/)<sup>&#42;</sup>, [**Ivan D. Jimenez-Rodriguez**](https://ivandariojr.io/)<sup>&#42;</sup>, [**Tamas G. Molner**](https://www.its.caltech.edu/~tmolnar/), **Wyatt Ubellacker**, [**Yisong Yu**](http://www.yisongyue.com/), [**Aaron D. Ames**](http://ames.caltech.edu/), [**Katherine L. Bouman**](http://users.cms.caltech.edu/~klbouman/)
-{: .text-center}
+<!-- {: .text-center} -->
 
 California Institute of Technology
 {: .text-center}

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "L4DC 2020: Episodic Learning for Safe Bipedal Locomotion with Control Barrier Functions and Projection-to-State Safety"
+title:  "L4DC 2021: Episodic Learning for Safe Bipedal Locomotion with Control Barrier Functions and Projection-to-State Safety"
 date:   2020-11-1 4:35:00 -0800
 categories: Research
 tags: [Publications]
