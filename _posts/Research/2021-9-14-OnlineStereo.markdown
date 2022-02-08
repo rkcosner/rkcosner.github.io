@@ -5,10 +5,7 @@ date:   2021-9-14 4:35:00 -0800
 categories: Research
 tags: [Publications]
 ---
-<!-- [Ryan K. Cosner<sup>&#42;</sup>](https://rkcosner.com), [Ivan D. Jimenez Rodriguez<sup>&#42;</sup>](https://ivandariojr.io/), Tamas G. Molnar, Wyatt Ubellacker, Yisong Yue, Aaron D. Ames, Katherine L. Bouman.
 
- -->
-{: .text-center}
 <!-- 
 <p style="text-align: center;">
 <a href="http://www.rkcosner.com/">Ryan K. Cosner*</a>,
