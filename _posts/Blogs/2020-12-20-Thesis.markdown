@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: archive
 title:  "Thesis Outline"
 date:   2020-12-20 4:35:00 -0800
 categories: Blogs
 tags : [Blog]
----
+--- -->
 
 This page outlines my motivation and current and future work for my thesis. In general I work on the problem of robot safety in the real world. 
 
