@@ -87,10 +87,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-univeral" #"google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" #"google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "UA-210614375-1"
-    anonymize_ip         : true # true, false (default)
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
