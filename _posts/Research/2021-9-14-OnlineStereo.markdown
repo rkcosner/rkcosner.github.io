@@ -41,9 +41,11 @@ To this end, we propose an algorithm that exploits the structure of stereo-visio
 
 <hr>
 
+
+<iframe src="https://player.vimeo.com/video/605281037?h=28fb476545" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
 ## Citation 
 
 Ryan K. Cosner<sup>&#42;</sup>, Ivan D Rodriguez-Jimenez<sup>&#42;</sup>, Tamas G. Molnar, Wyatt Ubellacker, Yisong Yue, Aaron D. Ames, Katherine L. Bouman. "Self-Superversized Online Learning for Safety-Critical Control using Stereo-Vision." *International Conference on Robotics and Automation, 2022*. 
-
-<hr>
-<iframe src="https://player.vimeo.com/video/605281037?h=28fb476545" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
