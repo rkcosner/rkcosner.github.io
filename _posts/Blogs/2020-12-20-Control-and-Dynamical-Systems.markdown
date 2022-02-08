@@ -94,6 +94,7 @@ $$\begin{align}
 
 In summary, states describe a system and its history, a dynamical system is an equation which relates the current state to how it is changing, and the initial condition is the state at some known time $$t_0$$. Dynamical systems can be used to describe a wide range phenomenon from dynamic motion to population growth and if an initial condition is known solutions can be found which relate time and state.
 <hr>
+<hr>
 # Control 
 Control extends the idea of dynamical systems by allowing us to apply an input to the system. This can be written mathematically by adding some input $$u$$ which we can choose later: 
 <center>

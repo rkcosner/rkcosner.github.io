@@ -6,6 +6,10 @@ categories: Research
 tags: [Publications]
 ---
 Noel Csomay-Shanklin<sup>&#42;</sup>, **Ryan K. Cosner<sup>&#42;</sup>**, Min Dai<sup>&#42;</sup>, Andrew J. Taylor, Aaron D. Ames. [[pdf]](https://arxiv.org/pdf/2105.01697.pdf)
+
+
+
+
 <hr>
 **Abtract**: This paper combines episodic learning and control barrier functions (CBFs) in the setting of bipedal locomotion. The safety guarantees that CBFs provide are only valid with perfect model knowledge; however, this assumption cannot be met on hardware platforms. To address this, we utilize the notion of Projection-to-State Safety paired with a machine learning framework in an attempt to learn the model uncertainty as it effects the barrier functions. The proposed approach is demonstrated both in simulation and on hardware for the AMBER-3M bipedal robot in the context of the stepping-stone problem which requires precise foot placement while walking dynamically.
 

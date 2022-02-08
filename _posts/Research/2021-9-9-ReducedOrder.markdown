@@ -6,6 +6,10 @@ categories: Research
 tags: [Publications]
 ---
 Tamas G. Molnar, **Ryan K. Cosner**, Andrew W. Singletary, Wyatt Ubellacker, Aaron D. Ames. [[pdf]](https://arxiv.org/pdf/2109.09047.pdf) 
+
+
+
+
 <hr>
 **Abstract**: This paper presents a framework for the safety-critical control of robotic systems, when safety is defined on safe regions in the configuration space. 
 To maintain safety, we synthesize a safe velocity based on control barrier function theory without relying on a -- potentially complicated -- high-fidelity dynamical model of the robot.

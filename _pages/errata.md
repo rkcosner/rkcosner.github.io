@@ -24,7 +24,7 @@ Outside of my work I enjoy reading, playing trombone and guitar, and racing tria
 {% endif %}
 {% endfor %}
 
-<!-- {% for tag in site.tags %}
+{% for tag in site.tags %}
 {% if ({tag[0]} == "Music") %}
 <h2>{{tag[0]}}</h2>
 <ul>
@@ -36,7 +36,7 @@ Outside of my work I enjoy reading, playing trombone and guitar, and racing tria
 {% endfor %}
 </ul>
 {% endif %}
-{% endfor %} -->
+{% endfor %}
 
 
 {% for tag in site.tags %}

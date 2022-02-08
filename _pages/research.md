@@ -17,7 +17,7 @@ defaults:
       share: true
       related: true
 ---
-My research focuses on Controls, Robotics, and Safety. 
+My research focuses on Controls, Robotics, and Safety. Look [here](/blogs/Thesis) for an ever-evolving outline of my thesis direction. 
 
 Checkout these blog posts for brief and high-level introductions on some of these topics:
   * [Control and Dynamical Systems](/blogs/Control-and-Dynamical-Systems)
@@ -29,9 +29,8 @@ Checkout these blog posts for brief and high-level introductions on some of thes
 <ul>
 {% for post in tag[1] %}
 <li>
-<h3><a href="{{ post.url }}">{{ post.title }}</a> </h3>
-{{post.excerpt}}</li>
-
+<h6><a href="{{ post.url }}" style="color:black" >{{ post.title }}</a> </h6>
+<font size=2>{{post.excerpt}}</font></li>
 {% endfor %}
 </ul>
 {% endif %}

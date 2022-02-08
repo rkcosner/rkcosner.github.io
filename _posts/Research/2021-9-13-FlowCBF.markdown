@@ -6,6 +6,10 @@ categories: Research
 tags: [Publications]
 ---
 Wyatt Ubellacker, **Ryan K. Cosner**, Tamas G. Molnar, Andrew W. Singletary, Aaron D. Ames. 
+
+
+
+
 <hr>
 **Abstract**: Transitions between individual dynamic primitive behaviors, termed "motion primitives," play an essential role in realizing complex dynamic behaviors on robotic systems.
 This paper considers the flow, φ<sub>t</sub>(x), under the action of a "primitive" control law as a means for determining which motion primitives can be transitioned between. 

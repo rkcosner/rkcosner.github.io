@@ -6,6 +6,10 @@ categories: Research
 tags: [Publications]
 ---
 **Ryan K. Cosner<sup>&#42;</sup>**, Ivan D. Jimenez Rodriguez<sup>&#42;</sup>, Tamas G. Molnar, Wyatt Ubellacker, Yisong Yue, Aaron D. Ames, Katherine L. Bouman.
+
+
+
+
 <hr>
 **Abstract**: With the increasing prevalence of complex vision sensing methods for use in obstacle identification and state estimation, characterizing environment-dependent measurement errors has become a difficult and essential part of modern robotics.
 This paper presents a self-supervised learning approach to safety-critical control.  In particular, the uncertainty associated with stereo vision is estimated, and adapted online to new visual environments, wherein this estimate is leveraged in a safety-critical controller in a robust fashion. 
