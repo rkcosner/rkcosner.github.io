@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "CDC 2022: End-to-End IMitation Learning with Safety Guarantees using Control Barrier Functions"
+title:  "CDC 2022: End-to-End Imitation Learning with Safety Guarantees using Control Barrier Functions"
 date:   2021-9-15 4:35:00 -0800
 categories: Research
 tags: [Publications]
