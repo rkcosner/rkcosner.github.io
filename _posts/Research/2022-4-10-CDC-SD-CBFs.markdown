@@ -5,7 +5,7 @@ date:   2021-9-15 4:35:00 -0800
 categories: Research
 tags: [Publications]
 ---
-Adrew J. Taylor<sup>&#42;</sup>, Victor D. Dorobantu<sup>&#42;</sup>, **Ryan K. Cosner<sup>&#42;</sup>**, Yisong Yue, Aaron D. Ames. [[pdf]](../../assets/files/e2eIlCBF.pdf)
+Adrew J. Taylor<sup>&#42;</sup>, Victor D. Dorobantu<sup>&#42;</sup>, **Ryan K. Cosner<sup>&#42;</sup>**, Yisong Yue, Aaron D. Ames. [[pdf]](https://arxiv.org/pdf/2203.11470.pdf)
 
 
 
