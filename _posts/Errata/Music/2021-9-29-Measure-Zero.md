@@ -15,17 +15,23 @@ My rock band!
 
 <!-- {: .text-center} -->
 
-**Members**: Robby Gray (Vocals, Keys), Ryan Cosner (Guitar), Berthy Fend (Guitar), Mason McGill (Bass), Pierro Chiappina (Drums). 
+## Band Members 
+Robby Gray (Vocals, Keys), Ryan Cosner (Guitar), Berthy Fend (Guitar), Hirsh Kamakari (Bass), Pierro Chiappina (Drums). 
 
-Thanks to Nikhil for some great times! Good luck in the bay area! We'll miss your drumming skills!
+Thanks to Nikhil and Mason for some great times! 
 
-Current Covers: 
+## Socials 
+ Check out our [**Insta**](https://www.instagram.com/measure_zero_band/) and [**TikTok**](https://www.tiktok.com/@measure_zero_band)!
+
+### Current Covers: 
 * Cough Syrup - Young the Giant
 * 1979 - Smashing Pumpkins
 * All These Things I've Done - the Killers
 * Reptilia - the Strokes
 * Karma Police - Radiohead
 * Take Me Out - Franz Ferdinand
+* The Middle - Jimmy Eat World
+* Basket Case - Green Day 
 
 
 <hr>
