@@ -22,8 +22,14 @@ My research focuses on Controls, Robotics, and Safety.
 
 Checkout these blog posts for brief and high-level introductions on some of these topics:
   * [Control and Dynamical Systems](/blogs/Control-and-Dynamical-Systems)
+  * More coming soon!
 
 
+And checkout this list for some of the my favorite papers written by others that have inspired my work: 
+* [Research Library](/library/research-library)
+
+<hr>
+<hr>
 {% for tag in site.tags %}
 {% if ({tag[0]} == "Publications") or ({tag[0]} == "Projects") %}
 <h2>{{tag[0]}}</h2>
