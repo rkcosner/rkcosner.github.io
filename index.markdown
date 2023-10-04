@@ -13,10 +13,14 @@ header:
 </center>
 
 <center>
-Hi, my name is Ryan Cosner. I am a PhD candidate at Caltech where I am advised by <a href="http://ames.caltech.edu/">Professor Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. My research centers on safety-critical control in uncertain environments using formal methods from nonlinear control theory and machine learning with applications in robotics, autonomous vehicles, and beyond. 
-Outside of research I enjoy giving back to my community, playing music, and racing triathlons.
-For the Summer of 2022 I will be a Research Intern with the <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> at Nvidia under the advisement of <a href="https://profiles.stanford.edu/marco-pavone">Marco Pavone</a>. 
+Hi, my name is Ryan Cosner. I am a PhD candidate at Caltech where I am advised by <a href="http://ames.caltech.edu/">Professor Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. My research centers on safety-critical control in using methods from nonlinear control theory and machine learning with applications to robotics, autonomous vehicles, and beyond. My goal is to achieve safety in the real world by addressing issues such as sampled-data uncertainty, perception error, dynamics uncertainty, and multi-agent interactions.
+<center>
+<br>
 </center>
+Outside of research I enjoy giving back to my community, playing music, drawing, and racing triathlons.
+</center>
+
+<!--For the Summer of 2022 I will be a Research Intern with the <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> at Nvidia under the advisement of <a href="https://profiles.stanford.edu/marco-pavone">Marco Pavone</a>. -->
 
 <br>
 
@@ -29,7 +33,7 @@ For the Summer of 2022 I will be a Research Intern with the <a href="https://nvr
         <div class="archive__item-body">
             <h2 class="archive__item-title">Research</h2>
             <div class="archive__item-excerpt">
-            <p> Click the link to read more about my research or visit my <a href="https://scholar.google.com/citations?user=9XSMo-AAAAAJ&hl=en&oi=ao" > google scholar</a>
+            <p> Click the link to read more about my research or visit my <a href="https://scholar.google.com/citations?user=9XSMo-AAAAAJ&hl=en&oi=ao" > Google Scholar</a>
             </p>
             </div>
             <p><a href="/research/" class="btn btn--primary">View Research</a></p>
