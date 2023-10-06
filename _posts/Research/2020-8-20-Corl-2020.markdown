@@ -11,18 +11,30 @@ Sarah Dean, Andrew J. Taylor, **Ryan K Cosner**, Benjamin Recht, Aaron D. Ames. 
 
 
 <hr>
-**Abstract**: Modern nonlinear control theory seeks to develop feedback controllers that endow systems with properties such as safety and stability. The guarantees ensured by these controllers often rely on accurate estimates of the system state for determining control actions. In practice, measurement model uncertainty can lead to error in state estimates that degrades these guarantees. In this paper, we seek to unify techniques from control theory and machine learning to synthesize controllers that achieve safety in the presence of measurement model uncertainty. We define the notion of a Measurement-Robust Control Barrier Function (MR-CBF) as a tool for determining safe control inputs when facing measurement model uncertainty. Furthermore, MR-CBFs are used to inform sampling methodologies for learning-based perception systems and quantify tolerable error in the resulting learned models. We demonstrate the efficacy of MR-CBFs in achieving safety with measurement model uncertainty on a simulated Segway system.
+**Abstract**: 
+<p align="justify">
+Modern nonlinear control theory seeks to develop feedback controllers that endow systems with properties such as safety and stability. The guarantees ensured by these controllers often rely on accurate estimates of the system state for determining control actions. In practice, measurement model uncertainty can lead to error in state estimates that degrades these guarantees. In this paper, we seek to unify techniques from control theory and machine learning to synthesize controllers that achieve safety in the presence of measurement model uncertainty. We define the notion of a Measurement-Robust Control Barrier Function (MR-CBF) as a tool for determining safe control inputs when facing measurement model uncertainty. Furthermore, MR-CBFs are used to inform sampling methodologies for learning-based perception systems and quantify tolerable error in the resulting learned models. We demonstrate the efficacy of MR-CBFs in achieving safety with measurement model uncertainty on a simulated Segway system.
+</p> 
 
-This is work performed in collaboration with Sarah Dean and Ben Recht (UC Berkeley) and Andrew Taylor and Aaron Ames (Caltech). It was originally published at the 2020 Conference on Robotic Learning. The full article can be found [**here**](https://arxiv.org/pdf/2010.16001.pdf) [(https://arxiv.org/pdf/2010.16001.pdf)](https://arxiv.org/pdf/2010.16001.pdf).
+<p align="justify">
+This is work performed in collaboration with Sarah Dean and Ben Recht (UC Berkeley) and Andrew Taylor and Aaron Ames (Caltech). It was originally published at the 2020 Conference on Robotic Learning. 
+</p>
+The full article can be found [**here**](https://arxiv.org/pdf/2010.16001.pdf) [(https://arxiv.org/pdf/2010.16001.pdf)](https://arxiv.org/pdf/2010.16001.pdf).
 
+<p align="justify">
 Below is a simplified version of the paper.
+</p>
+
 
 # Introduction
+<p align="justify">
 Safety is really important, but most of our methods of assuring safety really on highly accurate system measurements. We explored the problem of ensuring safety despite the measurement errors. We apply our solution to a simulated segway system with a camera-in-the-loop sensor.
-
+</p>
 
 # Background
+<p align="justify">
 When designing a system we often require that the final design is "safe". But what exactly does it mean to be safe? For our purposes we define a safe set as a region of space where our system is considered safe. Like an autonomous vehicle is safe if it's one the road and unsafe if it's not on the road. More precisely, we say that a system is safe if that safe set is *invariant*. 
+</p>
 
 > **Safety (Invariance)**: A system is safe if starting in the safe set implies that it will stay in the safe set. 
 
@@ -40,6 +52,7 @@ When this inequality is ensured, the system is guaranteed to be safe (Thrm 1).
 
 # New Theory: Measurement-Robust Control Barrier Functions
 Often when working with real systems we can't measure things exactly, but Control Barrier Functions incorporate the current value of $$\mathbf{x}$$. In this work we found a way of extending existing CBF theory to ensure that the system remains safe even despite thesse measurement errors. 
+
 
 The CBF $$h$$ is **Measurement Robust** if there exists a controller that satisfies the constraint: 
 <center>

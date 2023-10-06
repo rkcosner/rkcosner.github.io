@@ -11,9 +11,16 @@ Noel Csomay-Shanklin<sup>&#42;</sup>, **Ryan K. Cosner<sup>&#42;</sup>**, Min Da
 
 
 <hr>
-**Abtract**: This paper combines episodic learning and control barrier functions (CBFs) in the setting of bipedal locomotion. The safety guarantees that CBFs provide are only valid with perfect model knowledge; however, this assumption cannot be met on hardware platforms. To address this, we utilize the notion of Projection-to-State Safety paired with a machine learning framework in an attempt to learn the model uncertainty as it effects the barrier functions. The proposed approach is demonstrated both in simulation and on hardware for the AMBER-3M bipedal robot in the context of the stepping-stone problem which requires precise foot placement while walking dynamically.
+**Abtract**:
+<p align="justify">
+This paper combines episodic learning and control barrier functions (CBFs) in the setting of bipedal locomotion. The safety guarantees that CBFs provide are only valid with perfect model knowledge; however, this assumption cannot be met on hardware platforms. To address this, we utilize the notion of Projection-to-State Safety paired with a machine learning framework in an attempt to learn the model uncertainty as it effects the barrier functions. The proposed approach is demonstrated both in simulation and on hardware for the AMBER-3M bipedal robot in the context of the stepping-stone problem which requires precise foot placement while walking dynamically.
+</p>
 
-This is work performed in collaboration with Noel Csomay-Shanklin, Min Dai, Andrew Taylor, and Aaron Ames (Caltech). It was originally submitted to the 2021 Learning for Dynamics and Control (L4DC) Conference. The full publication can be found [**here**](https://arxiv.org/pdf/2105.01697.pdf) [(https://arxiv.org/pdf/2105.01697.pdf)](https://arxiv.org/pdf/2105.01697.pdf).
+<p align="justify">
+This is work performed in collaboration with Noel Csomay-Shanklin, Min Dai, Andrew Taylor, and Aaron Ames (Caltech). It was originally submitted to the 2021 Learning for Dynamics and Control (L4DC) Conference. 
+</p>
+
+The full publication can be found [**here**](https://arxiv.org/pdf/2105.01697.pdf) [(https://arxiv.org/pdf/2105.01697.pdf)](https://arxiv.org/pdf/2105.01697.pdf).
 
 
 <iframe src="https://player.vimeo.com/video/481809664?h=a0378ff733" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

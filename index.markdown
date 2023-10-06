@@ -13,7 +13,9 @@ header:
 </center>
 
 <center>
-Hi, my name is Ryan Cosner. I am a PhD candidate at Caltech where I am advised by <a href="http://ames.caltech.edu/">Professor Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. My research centers on safety-critical control in using methods from nonlinear control theory and machine learning with applications to robotics, autonomous vehicles, and beyond. My goal is to achieve safety in the real world by addressing issues such as sampled-data uncertainty, perception error, dynamics uncertainty, and multi-agent interactions.
+<p align="justify">
+Hi, my name is Ryan K. Cosner. I am a 5th year PhD candidate in Mechanical Engineering at Caltech where I am advised by <a href="http://ames.caltech.edu/">Prof. Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. In the Summer of 2022, I interned with Nvidia's <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> where I was advised by Dr. Yuxiao Chen, Prof. Karen Leung, and Prof. Marco Pavone. My main research interests are nonlinear, risk-sensitive control and machine learning and their applications to robots and autonomous vehicles in uncertain and safety-critical environments, with the long-term goal of making robust and performant autonomous systems ubiquitous in everyday life. 
+</p>
 <center>
 <br>
 </center>

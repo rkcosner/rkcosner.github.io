@@ -1,0 +1,17 @@
+---
+layout: archive
+title:  "ACC 2024: Safe Dynamics Learning with Initially Infeasible Safety Certificates (Under Review)"
+date:   2023-10-4 4:35:00 -0800
+categories: Research
+tags: [Publications]
+---
+Alexandre Capone, **Ryan K. Cosner<sup>&#42;</sup>**, Aaron D. Ames, and Sandra Hirche. 
+
+
+<hr>
+**Abstract**:
+<p align="justify">
+Safety-critical control tasks with high levels of uncertainty are becoming increasingly common. Typically, techniques that guarantee safety during learning and control utilize constraint-based safety certificates, which can be leveraged to compute safe control inputs. However, excessive model uncertainty can render robust safety certification methods or infeasible, meaning no control input satisfies the constraints imposed by the safety certificate. This paper considers a learning-based setting with a robust safety certificate based on a control barrier function (CBF) second-order cone program. If the control barrier function certificate is feasible, our approach leverages it to guarantee safety. Otherwise, our method explores the system dynamics to collect data and recover the feasibility of the control barrier function constraint. To this end, we employ a method inspired by well-established tools from Bayesian optimization. We show that if the sampling frequency is high enough, we recover the feasibility of the robust CBF certificate, guaranteeing safety. Our approach requires no prior model and corresponds, to the best of our knowledge, to the first algorithm that guarantees safety in settings with occasionally infeasible safety certificates without requiring a backup non- learning-based controller.
+</p>
+<hr> 
+

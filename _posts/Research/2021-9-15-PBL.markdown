@@ -11,7 +11,9 @@ tags: [Publications]
 
 
 <hr>
-**Abstract**: Bringing dynamic robots into the wild requires a tenuous balance between performance and safety. Yet controllers designed to provide robust safety guarantees often result in conservative behavior, and tuning these controllers to find the ideal trade-off between performance and safety typically requires domain expertise or a carefully constructed reward function. This work presents a design paradigm for systematically achieving behaviors that balance performance and robust safety by integrating safety-aware Preference-Based Learning (PBL) with Control Barrier Functions (CBFs). Fusing these concepts -- safety-aware learning and safety-critical control -- gives a robust means to achieve safe behaviors on complex robotic systems in practice. We demonstrate the capability of this design paradigm to achieve safe and performant perception-based autonomous operation of a quadrupedal robot both in simulation and experimentally on hardware.
-
+**Abstract**: 
+<p align="justify"> 
+Bringing dynamic robots into the wild requires a tenuous balance between performance and safety. Yet controllers designed to provide robust safety guarantees often result in conservative behavior, and tuning these controllers to find the ideal trade-off between performance and safety typically requires domain expertise or a carefully constructed reward function. This work presents a design paradigm for systematically achieving behaviors that balance performance and robust safety by integrating safety-aware Preference-Based Learning (PBL) with Control Barrier Functions (CBFs). Fusing these concepts -- safety-aware learning and safety-critical control -- gives a robust means to achieve safe behaviors on complex robotic systems in practice. We demonstrate the capability of this design paradigm to achieve safe and performant perception-based autonomous operation of a quadrupedal robot both in simulation and experimentally on hardware.
+</p>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649746749?h=3e160a0884" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

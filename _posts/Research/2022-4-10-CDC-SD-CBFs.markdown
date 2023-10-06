@@ -10,7 +10,10 @@ Adrew J. Taylor<sup>&#42;</sup>, Victor D. Dorobantu<sup>&#42;</sup>, **Ryan K. 
 
 
 <hr>
-**Abstract**: Control Barrier Functions (CBFs) have been demonstrated to be powerful tools for safety-critical controller design for nonlinear systems. Existing design paradigms do not address the gap between theory (controller design with continuous time models) and practice (the discrete time sampled implementation of the resulting controllers); this can lead to poor performance and violations of safety for hardware instantiations.  We propose an approach to close this gap by synthesizing sampled-data counterparts to these CBF-based controllers using approximate discrete time models and *Sampled-Data Control Barrier Functions (SD-CBFs)*. Using properties of a system's continuous time model, we establish a relationship between SD-CBFs and a notion of *practical safety* for sampled-data systems. Furthermore, we construct convex optimization-based controllers that formally endow nonlinear systems with safety guarantees in practice. We demonstrate the efficacy of these controllers in simulation.
+**Abstract**: 
+<p align="justify"> 
+Control Barrier Functions (CBFs) have been demonstrated to be powerful tools for safety-critical controller design for nonlinear systems. Existing design paradigms do not address the gap between theory (controller design with continuous time models) and practice (the discrete time sampled implementation of the resulting controllers); this can lead to poor performance and violations of safety for hardware instantiations.  We propose an approach to close this gap by synthesizing sampled-data counterparts to these CBF-based controllers using approximate discrete time models and *Sampled-Data Control Barrier Functions (SD-CBFs)*. Using properties of a system's continuous time model, we establish a relationship between SD-CBFs and a notion of *practical safety* for sampled-data systems. Furthermore, we construct convex optimization-based controllers that formally endow nonlinear systems with safety guarantees in practice. We demonstrate the efficacy of these controllers in simulation.
+</p>
 <hr> 
 
 [Supplementary video](https://vimeo.com/690803272) and [code base](https://bit.ly/CBF-OP). 

@@ -36,8 +36,8 @@ And checkout this list for some of the my favorite papers written by others that
 <ul>
 {% for post in tag[1] %}
 <li>
-<h6><a href="{{ post.url }}" style="color:black" >{{ post.title }}</a> </h6>
-<font size=2>{{post.excerpt}}</font></li>
+<a href="{{ post.url }}" style="color:light_blue" ><font size=3>{{ post.title }}</font></a> 
+<font size=3>{{post.excerpt}}</font></li>
 {% endfor %}
 </ul>
 {% endif %}
