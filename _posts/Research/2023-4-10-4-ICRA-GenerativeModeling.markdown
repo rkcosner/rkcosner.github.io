@@ -61,6 +61,8 @@ style="border:1px solid black"
 Special thanks to Albert Li for his help with understanding and coding the CVAEs and to Amy Li for her insightful feedback on our manuscript. This work was also supported by BP. 
 </p>
 
+<hr>
+
 ## Contact 
 
 If you have any questions, please feel free to contact [Ryan Cosner](rkcosner@caltech.edu). 
