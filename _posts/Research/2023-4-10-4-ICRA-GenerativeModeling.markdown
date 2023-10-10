@@ -54,7 +54,7 @@ style="border:1px solid black"
 <hr>
 
 ## Project Video
-<p>
+<p align="center">
 <iframe src="https://drive.google.com/file/d/1cWbQ8rvKEUbG7617Muvp86xPz6d6YM_n/preview" width="630" height="360" allow="autoplay"></iframe>
 </p>
 
