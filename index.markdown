@@ -18,7 +18,6 @@ Hi, my name is Ryan K. Cosner. I am a 5th year PhD candidate in Mechanical Engin
 </p>
 <center>
 <br>
-
 </center>
 Outside of research I enjoy giving back to my community, playing music, drawing, and racing triathlons.
 </center>
