@@ -19,8 +19,7 @@ tags: [Publications]
 
 *Submitted to the International Conference on Robotics and Automation (ICRA) 2024, Yokohama*
 
-[[extended version pdf]](https://drive.google.com/file/d/1h1i2P1oLIH9gGgi2g6ciR3EFWSTiJb7s/view?usp=sharing)
-
+[[extended version pdf](https://drive.google.com/file/d/1h1i2P1oLIH9gGgi2g6ciR3EFWSTiJb7s/view?usp=sharing), [colab notebook]](https://colab.research.google.com/drive/1PdD8qGjWKXsrNFoWuth10nI7-SRQ61-r?usp=sharing), [github repo](https://github.com/rkcosner/icra23_paper_code)]
 
 <hr>
 ## Abstract
