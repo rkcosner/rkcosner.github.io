@@ -7,10 +7,14 @@ tags: [Publications]
 ---
 **Ryan K. Cosner<sup>&#42;</sup>**, Igor Sadalski, Jana K. Woo, Preston Culbertson, and Aaron D. Ames. 
 
- 
+<p align="center">
 <img src="/assets/images/icra23_authors_picture.png
 " alt="paper headshot"
 />
+<img src="/assets/images/orio_logo.png
+" alt="orio" width="400"
+/>
+</p>
 
 
 *Submitted to the International Conference on Robotics and Automation (ICRA) 2024, Yokohama*
