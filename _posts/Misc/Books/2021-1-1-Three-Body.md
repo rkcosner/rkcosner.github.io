@@ -2,8 +2,8 @@
 layout: archive
 title:  "Three Body Problem by Cixin Liu"
 date:   2020-12-20 4:35:00 -0800
-categories: Sundry
-tags : [Sundry, Books]
+categories: Misc.
+tags : [Misc., Books]
 ---
 
 This book was recommended to me and it is one of my new favorites. Firstly, it is Chinese science fiction and reading things written from the perspective of a different culture is always interesting and provides great insight. In particular this book is set during and following the Cultural Revolution in China and reading about that from the Chinese academic perspective provided a very different perspective from the traditional American one. In addition to the interesting perspective, engaging prose, and thrilling story, the science of this book seem almost designed for me.

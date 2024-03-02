@@ -3,8 +3,8 @@ main:
     url: /research/
   - title: "Blogs"
     url: /blogs/
-  - title: "Sundry"
-    url: /Sundry/
+  - title: "Misc."
+    url: /Misc./
   - title: "Resume"
     url: /assets/files/Resume.pdf
 

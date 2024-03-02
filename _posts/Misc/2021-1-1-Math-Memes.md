@@ -2,8 +2,8 @@
 layout: archive
 title:  "Math Memes"
 date:   2020-12-20 4:35:00 -0800
-categories: Sundry
-tags : [Sundry, Other]
+categories: Misc.
+tags : [Misc., Other]
 ---
 
 Here are some ***highly*** curated math memes. Only the latest and greatest. 

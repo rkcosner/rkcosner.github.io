@@ -1,7 +1,7 @@
 ---
-title:  "Sundry"
+title:  "Misc."
 layout: archive
-permalink: /Sundry/
+permalink: /Misc./
 author_profile: true
 comments: true
 ---
