@@ -48,6 +48,7 @@ Outside of research I enjoy giving back to my community, playing music, drawing,
     <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
+<<<<<<< HEAD
             <img src="/assets/images/baldyCropped.jpg" alt="Misc. Image">    
         </div>
         <div class="archive__item-body">
@@ -56,6 +57,16 @@ Outside of research I enjoy giving back to my community, playing music, drawing,
             <p>Some fun stuff. Both scientific and not so scientific.</p>
             </div>
             <p><a href="/Misc./" class="btn btn--primary">View Misc.</a></p>
+=======
+            <img src="/assets/images/baldyCropped.jpg" alt="misc Image">    
+        </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Miscellaneous</h2>
+            <div class="archive__item-excerpt">
+            <p>Some fun stuff. Both scientific and not so scientific.</p>
+            </div>
+            <p><a href="/misc/" class="btn btn--primary">View Misc.</a></p>
+>>>>>>> d14b539555775f786b1d2fb96910c78ef11a5f5d
         </div>
     </div>
     </div>

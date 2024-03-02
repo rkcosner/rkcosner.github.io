@@ -2,8 +2,13 @@
 layout: archive
 title:  "Math Memes"
 date:   2020-12-20 4:35:00 -0800
+<<<<<<< HEAD:_posts/Misc/2021-1-1-Math-Memes.md
 categories: Misc.
 tags : [Misc., Other]
+=======
+categories: Miscellaneous
+tags : [misc, Other]
+>>>>>>> d14b539555775f786b1d2fb96910c78ef11a5f5d:_posts/Miscellaneous/2021-1-1-Math-Memes.md
 ---
 
 Here are some ***highly*** curated math memes. Only the latest and greatest. 

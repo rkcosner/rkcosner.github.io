@@ -1,13 +1,7 @@
 ---
-<<<<<<< HEAD:_pages/Misc.md
-title:  "Misc."
-layout: archive
-permalink: /Misc./
-=======
 title:  "Miscellaneous"
 layout: archive
 permalink: /misc/
->>>>>>> d14b539555775f786b1d2fb96910c78ef11a5f5d:_pages/errata.md
 author_profile: true
 comments: true
 ---
