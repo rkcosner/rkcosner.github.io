@@ -2,8 +2,8 @@
 layout: archive
 title:  "Math Memes"
 date:   2020-12-20 4:35:00 -0800
-categories: Errata
-tags : [errata, Other]
+categories: Miscellaneous
+tags : [misc, Other]
 ---
 
 Here are some ***highly*** curated math memes. Only the latest and greatest. 

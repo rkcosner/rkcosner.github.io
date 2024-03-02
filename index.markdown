@@ -48,14 +48,14 @@ Outside of research I enjoy giving back to my community, playing music, drawing,
     <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <img src="/assets/images/baldyCropped.jpg" alt="Errata Image">    
+            <img src="/assets/images/baldyCropped.jpg" alt="misc Image">    
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">Errata</h2>
+            <h2 class="archive__item-title">Miscellaneous</h2>
             <div class="archive__item-excerpt">
             <p>Some fun stuff. Both scientific and not so scientific.</p>
             </div>
-            <p><a href="/errata/" class="btn btn--primary">View Errata</a></p>
+            <p><a href="/misc/" class="btn btn--primary">View Misc.</a></p>
         </div>
     </div>
     </div>
