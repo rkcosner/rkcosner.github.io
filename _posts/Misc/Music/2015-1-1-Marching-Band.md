@@ -2,8 +2,8 @@
 layout: archive
 title:  "Marching Band"
 date:   2015-1-1 4:35:00 -0800
-categories: misc
-tags : [misc, Music]
+categories: Sundry
+tags : [Sundry, Music]
 ---
 
 A collection of various marching band memories. Woah Bones! 
