@@ -1,7 +1,7 @@
 ---
-title:  "Errata"
+title:  "misc"
 layout: archive
-permalink: /errata/
+permalink: /misc/
 author_profile: true
 comments: true
 ---

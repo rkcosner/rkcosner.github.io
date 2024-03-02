@@ -2,8 +2,8 @@
 layout: archive
 title:  "Measure Zero"
 date:   2021-9-29 4:35:00 -0800
-categories: Errata
-tags : [errata, Music]
+categories: misc
+tags : [misc, Music]
 ---
 
 My rock band!

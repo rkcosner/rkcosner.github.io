@@ -2,8 +2,8 @@
 layout: archive
 title:  "Marching Band"
 date:   2015-1-1 4:35:00 -0800
-categories: Errata
-tags : [errata, Music]
+categories: misc
+tags : [misc, Music]
 ---
 
 A collection of various marching band memories. Woah Bones! 
