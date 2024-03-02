@@ -3,13 +3,8 @@ main:
     url: /research/
   - title: "Blogs"
     url: /blogs/
-<<<<<<< HEAD
-  - title: "Misc."
-    url: /Misc./
-=======
   - title: "Miscellaneous"
     url: /misc/
->>>>>>> d14b539555775f786b1d2fb96910c78ef11a5f5d
   - title: "Resume"
     url: /assets/files/Resume.pdf
 
