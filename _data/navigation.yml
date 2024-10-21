@@ -1,10 +1,10 @@
 main:
-  - title: "Research"
+  - title: "research"
     url: /research/
-  - title: "Blogs"
-    url: /blogs/
-  - title: "Miscellaneous"
-    url: /misc/
-  - title: "Resume"
-    url: /assets/files/Resume.pdf
+  # - title: "blogs"
+    # url: /blogs/
+  # - title: "miscellaneous"
+    # url: /misc/
+  - title: "bio/cv"
+    url: /bio/ #/assets/files/Resume.pdf
 

@@ -1,0 +1,74 @@
+---
+layout: archive
+title:  "MBUSD Panel for Equity"
+date:   2020-12-20 4:35:00 -0800
+categories: Blogs
+tags : [Blog]
+---
+*Date: 10/20/2024*. 
+
+On June 4th, 2020 I gathered data and made a [post](https://www.facebook.com/ryan.cosner.3/posts/3309400409093683), recreated below, bringing awareness to systemic inequalities in my hometown and local school district (Manhattan Beach Unified School District (MBUSD)). This led me to form the [MBUSD Panel for Equity (MB4E)](https://www.facebook.com/groups/537767780250608/) which, under the adept leadership of Ronald Clinton, advocated for change, produved [these survey results](https://go.boarddocs.com/ca/mbusd/Board.nsf/files/BTYQBL682AD0/$file/MB4E%20SB%20Presentation%20-%209_30.pdf), and helped elect Jason Boxer to the MBUSD school board on a platform that promoted equitable education. MBUSD formed a committee on [Equity, Divesity, Social Justice, and Inclusion (EDSJI)](https://www.mbusd.org/apps/pages/index.jsp?uREC_ID=2175627&type=d&pREC_ID=2409045) which conducted an audit on the school district and created a plan of action which was implemented on April 20, 2022. 
+
+Here is a local news article discussing MB4E: ["Manhattan Beach Unified board officially supports community's work on equity, inclusion" - 10/9/2020](https://www.dailybreeze.com/2020/10/09/manhattan-beach-unified-board-officially-supports-school-communitys-work-on-equity-inclusion/).
+
+---------------------------------------
+
+<center>
+<img src="/assets/images/mb4e/mb4e_demographics.jpg" alt="A beautiful sunset" width="70%">
+
+<img src="/assets/images/mb4e/mb4e_expenditures.jpg" alt="A beautiful sunset" width="70%">
+
+<img src="/assets/images/mb4e/mv4e_testscores.jpg" alt="A beautiful sunset" width="70%">
+</center>
+
+>People from my hometown of Manhattan Beach have been saying that “our city doesn’t have a race problem”. This example is in response to that misconception: 
+>
+>The Manhattan Beach Unified School District (MBUSD) should not be a school district. The artificial barriers between it and nearby communities should be torn down. It has only one high school and serves only 6,584 students. Nearby, LAUSD serves 734,641 and Irvine Unified serves 34,000. Size is not a limiting factor.
+MBUSD benefits financially from being a small school district that serves two small wealthy towns, Manhattan and Hermosa Beach. The nearby and more diverse school districts of Inglewood Unified and Hawthorne Unified spent approximately $10,333 and $9,545 per student respectively in the 2018-19 school year. MBUSD spent $11,696 per student. That's $1,363 more than Inglewood and $2,151 more than Hawthorne. This is in addition to the personal expenses* and volunteer hours that are more easily contributed by the wealthy families of Manhattan and Hermosa Beach.
+That manifests itself in part in school ranking and test scores.** Mira Costa, the MBUSD high school, is ranked 404th nationally, Inglewood is ranked between "13,345-17,792th", and Hawthorne is ranked 8,171th. Respectively, these schools have (math, reading) proficiency scores of: (67%,85%), (4%, 22%) , and (13%, 51%). Students cannot choose which school to attend despite the schools being at most 8 miles apart. Access to these schools is based on city lines.
+Meanwhile, the higher property values in Manhattan and Hermosa Beach serve to increase de facto segregation and dilute diversity in MBUSD. For Manhattan Beach, Inglewood, and Hawthorne their respective demographics are: (74.7% MB, 3.7% I, 8.9% H) White,  (0.5% MB, 40.9% I, 23% H) Black, (8.6% MB, 51.4% I, 54.8% H) Latinx, (10.6% MB, 1.5% I, 7.3% H) Asian.*** Despite their proximity, the lack of similarity in their demographics displays the existing segregation in the region. 
+MBUSD hordes resources that should be shared with neighboring communities. My highly-ranked Mira Costa High School education was a privilege that I didn't earn. This is unequal access to public education by race. This is systemic racism.
+>
+>\*\*\*If you are a MB resident or MBUSD student, parent, or alumn, a group has been made to further discuss this topic here:  [https://www.facebook.com/groups/537767780250608/](https://www.facebook.com/groups/537767780250608/) \*\*\*
+>
+>
+>
+>\* Such as tutors, supplies, books, summer camp, field trips, test fees, test prep, college counselors, etc.
+>
+>\*\* This is of course a simplification of what can affect school rankings and test scores
+>
+>\*\*\* Racial Categories Not Included: Mixed, Native, Other. City demographics are not exactly school district demographics, but are used here as a proxy
+>
+>Manhattan Beach: $77 million, 6584 students
+>
+>Inglewood:  $119 million, 11,542 students
+>
+>Hawthorne: $84 million, 8,800 students
+>
+>Sources: 
+>
+>[MBUSD Budget](https://4.files.edl.io/9f5d/08/17/18/175736-bb5037a1-b396-400c-a790-053a028c651a.pdf?fbclid=IwY2xjawGC8QNleHRuA2FlbQIxMAABHbw2xwoQJ7MPbVayeItR-QBTuHzdruRXcQ1_yPt_gPuVNYLIME7gAyJzAA_aem_RoN44BaToS7_pSuR4xsrBQ)
+>
+>[IUSD Budget](https://4.files.edl.io/6db3/03/23/19/154557-f3afbf7c-212a-4d08-b181-b1b6124b1db3.pdf?fbclid=IwY2xjawGC8R5leHRuA2FlbQIxMAABHfOBd9z5DDALJ7S3b6WGfO1DXMGsndwnR5SVCVQDCBhdXLaiVuTnBQ_d4Q_aem_ti63TudSVe6GZwiT3AfUwQ) 
+>
+>[HUSD Budget](https://l.facebook.com/l.php?u=http%3A%2F%2Fhsd-ca.schoolloop.com%2Ffile%2F1531973529986%2F1298973906433%2F325880443015881456.pdf%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2qgHgOEgbAbai3NPI45N6dJfL00KzzFlCkv2-Hw6Ijp7ZFyqJ4LgIGuwU_aem_DQ2LA8Pz0XWnxRofp3WR1w&h=AT3ycWcdG2q17xYlxgzbNxvHTg2Jz-Qr2DImLNjI_lzH0bVdP-hZNbEyd6prsa5jUBja6MSXL9CGLidQrbc35CeYoaPgnSdOa11YnkNzRlngt9stfK0vfRrlA86S&__tn__=-UK-R&c[0]=AT1oriOkuA9Tl3i-IfRbrRv1tAE2N42rliqP9V63YBMGUmQOcleljQ41AOl1X4Fh6w5bndnu4QNeWmxrCErlLJWGbqqAOnWFk04VGPYMQ2QXMXAbn8--0jPLm8BeWN3FZokHoET3IxMOiRujpp7aN8Hs3g)
+>
+>[MBUSD Number of Students](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP79yW0efpAhWaGTQIHbEqCDkQFjABegQIChAD&url=http%3A%2F%2Fwww.ed-data.org%2Fdistrict%2FLos-Angeles%2FManhattan-Beach-Unified&usg=AOvVaw0lhdGB3PWs4obnZLrYZKqg) 
+>
+>[IUSD Number of Students](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj5hJ6t0efpAhXEFjQIHd7mB64QFjADegQIDRAH&url=https%3A%2F%2Fwww.publicschoolreview.com%2Fcalifornia%2Finglewood-unified-school-district%2F618390-school-district&usg=AOvVaw0gNzCD6YQg11_VQ29HH0Kz)
+>
+>[HUSD Number of Students](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjArYG60efpAhWUHzQIHcyBAEAQFjABegQICxAD&url=http%3A%2F%2Fwww.ed-data.org%2Fdistrict%2FLos-Angeles%2FHawthorne&usg=AOvVaw1Ov1lhFgVIXK3pGRTcGCgc)
+>
+>[Mahattan Beach Test Scores](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.publicschoolreview.com%2Fmira-costa-high-school-profile%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1vAT2BPO7PahksNSkDNqK-eIxP0JDQKEpW7lD9c-jqfvFb2Ui6hPJ4vCs_aem_5v-YOWhugfLI2RVzSwtbvA&h=AT28TQipo6R-hNjxslTdk9UM1naaFYZixRnZKRDepieZ0Lq0i4TRj7pB7coDNHtPI_8VvSrxxJaoS0mkeFIEY3zunttseVASHSgBhMa9U2lXUqDF8WviXRf3wSQb&__tn__=-UK-R&c[0]=AT1oriOkuA9Tl3i-IfRbrRv1tAE2N42rliqP9V63YBMGUmQOcleljQ41AOl1X4Fh6w5bndnu4QNeWmxrCErlLJWGbqqAOnWFk04VGPYMQ2QXMXAbn8--0jPLm8BeWN3FZokHoET3IxMOiRujpp7aN8Hs3g)
+>
+>[Hawthorne Test Scores](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.publicschoolreview.com%2Fhawthorne-high-school-profile%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3zgXfc-QwwCye0t2-lhnztQ1zBrJ3cJ0eUlQlUAwgYXVy2olbk5wUP3eE_aem_ti63TudSVe6GZwiT3AfUwQ&h=AT1b5kOJ8bFQAINxSazE7BQm8D_xLP6C0vJGQw1jg6E57CFrBjy9KM25aixsUEFlBmQc5u0d06TrjhZVOcJe2pQ-6KPBX-KoyglCrzF1KZ1OdC03si_4o_qGVpMf&__tn__=-UK-R&c[0]=AT1oriOkuA9Tl3i-IfRbrRv1tAE2N42rliqP9V63YBMGUmQOcleljQ41AOl1X4Fh6w5bndnu4QNeWmxrCErlLJWGbqqAOnWFk04VGPYMQ2QXMXAbn8--0jPLm8BeWN3FZokHoET3IxMOiRujpp7aN8Hs3g)
+>
+>[Inglewood Test Scores](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.publicschoolreview.com%2Finglewood-high-school-profile%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2kdyDfbOY3EFcD2ubnVRl7UEI7O1rZxjVer6YsdBJ99BGSmVUvSEMZs5Q_aem_gp3E_nLLsWE9utLATW5Mww&h=AT00P3lTQsnB0DinqXZz4YGcxlMHFRviXfc10d-aUbbyUC58ynaAD4JzJmhUw-dTzgdJhfuj1Ax6sYqgC4uLkSsAw59qPx9UXlIl37rtOsIimW2neLtoiFVtQBag&__tn__=-UK-R&c[0]=AT1oriOkuA9Tl3i-IfRbrRv1tAE2N42rliqP9V63YBMGUmQOcleljQ41AOl1X4Fh6w5bndnu4QNeWmxrCErlLJWGbqqAOnWFk04VGPYMQ2QXMXAbn8--0jPLm8BeWN3FZokHoET3IxMOiRujpp7aN8Hs3g)
+>
+>[Manhattan Beach Diversity](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiow9HG0efpAhXjMn0KHcM9BgwQFjABegQIChAD&url=https%3A%2F%2Fdatausa.io%2Fprofile%2Fgeo%2Fmanhattan-beach-ca%2F&usg=AOvVaw3iZQ-cCAWgKCcmx_6wlORI)
+>
+>[Inglewood Diversity](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiu9tfR0efpAhWjHjQIHaEUD6YQFjAAegQIBBAB&url=https%3A%2F%2Fdatausa.io%2Fprofile%2Fgeo%2Finglewood-ca%2F&usg=AOvVaw3YBkt15pw4kJxosLmaD4Xi)
+>
+>[Hawthorne Diversity](https://datausa.io/profile/geo/hawthorne-ca/)
+>
+>[School rankings](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiym-vh2ufpAhXnCTQIHePKAOoQFjABegQICxAE&url=https%3A%2F%2Fwww.usnews.com%2Feducation%2Fbest-high-schools%2Fcalifornia%2Fdistricts%2Fmanhattan-beach-unified%2Fmira-costa-high-1542&usg=AOvVaw1ouHztkvOKfpjPfgeTYWa_)

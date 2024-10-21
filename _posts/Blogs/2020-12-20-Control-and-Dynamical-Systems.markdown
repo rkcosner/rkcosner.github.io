@@ -5,6 +5,8 @@ date:   2020-12-20 4:35:00 -0800
 categories: Blogs
 tags : [Blog]
 ---
+*Date: 12/20/2020*. 
+
 This post is intended to provide a gentle introduction to my research field for interested folks regardless of their background. I opted for general understanding over technical detail. 
 
 > **Dynamical Systems Theory**: The study of how things change over time.

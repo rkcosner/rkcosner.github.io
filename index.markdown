@@ -7,14 +7,14 @@ author_profile: true
 header: 
   image: "/assets/images/CoverCropped.png"
 ---
-
+ 
 <center>
 <b>About Me</b>
 </center>
 
 <center>
 <p align="justify">
-Hi, my name is Ryan K. Cosner. I am a 5th year PhD candidate in Mechanical Engineering at Caltech where I am advised by <a href="http://ames.caltech.edu/">Prof. Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. In the Summer of 2022, I interned with Nvidia's <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> where I was advised by Dr. Yuxiao Chen, Prof. Karen Leung, and Prof. Marco Pavone. My main research interests are nonlinear, risk-sensitive control and machine learning and their applications to robots and autonomous vehicles in uncertain and safety-critical environments, with the long-term goal of making robust and performant autonomous systems ubiquitous in everyday life. 
+Hi, my name is Ryan K. Cosner. I am current wrapping up PhD in Mechanical Engineering at Caltech where I am advised by <a href="http://ames.caltech.edu/">Prof. Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. In the Summer of 2022, I interned with Nvidia's <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> where I was advised by Dr. Yuxiao Chen, Prof. Karen Leung, and Prof. Marco Pavone. I received my BS in 2019 from UC, Berkeley where I worked with Prof. Alice Agogino. My main research interests are nonlinear, risk-sensitive control and machine learning and their applications to robots in uncertain, low-data and safety-critical environments. 
 </p>
 <center>
 <br>
@@ -44,11 +44,10 @@ Outside of research I enjoy giving back to my community, playing music, drawing,
     </div>
     </div>
 </div>
-<div class="feature__wrapper">
+<!-- <div class="feature__wrapper">
     <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-<<<<<<< HEAD
             <img src="/assets/images/baldyCropped.jpg" alt="Misc. Image">    
         </div>
         <div class="archive__item-body">
@@ -56,28 +55,18 @@ Outside of research I enjoy giving back to my community, playing music, drawing,
             <div class="archive__item-excerpt">
             <p>Some fun stuff. Both scientific and not so scientific.</p>
             </div>
-            <p><a href="/Misc./" class="btn btn--primary">View Misc.</a></p>
-=======
-            <img src="/assets/images/baldyCropped.jpg" alt="misc Image">    
-        </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Miscellaneous</h2>
-            <div class="archive__item-excerpt">
-            <p>Some fun stuff. Both scientific and not so scientific.</p>
-            </div>
             <p><a href="/misc/" class="btn btn--primary">View Misc.</a></p>
->>>>>>> d14b539555775f786b1d2fb96910c78ef11a5f5d
         </div>
     </div>
     </div>
-</div>
+</div>  -->
 <div class="feature__wrapper">
     <div class="feature__item--center">
     <div class="archive__item">
         <div class="archive__item-body">
             <h2 class="archive__item-title">Curriculum Vitae (CV)</h2>
             <div class="archive__item-excerpt">
-            <p>For more details on my experiences please download my CV using the link below. Last updated (11/15/21). </p>
+            <p>For more details on my experiences please download my CV using the link below. Last updated (10/20/24). </p>
             </div>
             <p><a href="/assets/files/Resume.pdf" class="btn btn--primary">Download CV</a></p>
         </div>
