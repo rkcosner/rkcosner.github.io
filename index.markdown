@@ -31,7 +31,7 @@ Outside of research I enjoy giving back to my community, playing music, drawing,
     <div class="feature__item--right">
     <div class="archive__item">
         <div class="archive__item-teaser">
-            <img src="/assets/images/amberSteppingStones.png" alt="Research Image">    
+            <img src="/assets/images/cast_drone_square.gif" alt="Research Image">    
         </div>
         <div class="archive__item-body">
             <h2 class="archive__item-title">Research</h2>

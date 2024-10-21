@@ -7,7 +7,14 @@ categories: Library
 tags : [Library]
 ---
 
-Here is a list for some of the my favorite papers written by others that have inspired my work: 
+Here is a list for some of the my favorite works written by others that have inspired my research: 
+
+## Guiding Quotes
+* "What would Tadashi Hamada do?"
+* "All models are wrong, but some are useful" - George E. P. Box
+* "Anything that can go wrong will go wrong" - Murphy's Law
+* "Sometimes proving things in control theory is like playing Pokemon. You could try and catch them all, but that's not really the point." - Andrew Taylor
+* "Just because the result is correct, it does not mean it should be published" - Magnus Egerstedt
 
 ## Control Barrier Functions (CBFs)
 * [Control Barrier Function Based Quadratic Programs for Safety Critical Systems](https://web.archive.org/web/20190427094405id_/https://authors.library.caltech.edu/79450/2/1609.06408.pdf). Aaron Ames, et al. 2017.

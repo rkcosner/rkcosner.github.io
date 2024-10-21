@@ -21,7 +21,7 @@ defaults:
 
 My research focuses on controls and machine learning for real-world robot safety. 
 
-See below for a list of my publications and checkout my [Research Library](/library/research-library) for some of the my favorite papers written by others that have inspired my work.
+See below for a list of my publications and checkout my [Research Library](/library/research-library) for some of the my favorite works written by others that have inspired my research.
 
 
 {% for tag in site.tags %}

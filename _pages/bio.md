@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-Ryan K. Cosner (he/they) received his B.S. in Mechanical Engineering from the University of California, Berkeley (UC Berkeley) in 2019 and his M.S. in Mechanical Engineering from the California Institute of Technology (Caltech) in 2021. In 2022 he interned with Nvidia's Autonomous Vehicle Research Group. He has had the privilege of teaching Nonlinear Control & Dynamics and Mobile Robotics course at Caltech. 
+Ryan Kazuo (<ruby>一男<rt>カズオ</rt></ruby>) Cosner (he/they) received his B.S. in Mechanical Engineering from the University of California, Berkeley (UC Berkeley) in 2019 and his M.S. in Mechanical Engineering from the California Institute of Technology (Caltech) in 2021. In 2022 he interned with Nvidia's Autonomous Vehicle Research Group. He has had the privilege of teaching Nonlinear Control & Dynamics and Mobile Robotics course at Caltech. 
 
 <div class="feature__wrapper">
     <div class="feature__item--center">
