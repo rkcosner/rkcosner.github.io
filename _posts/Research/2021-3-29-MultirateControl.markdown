@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "LCSS 2021: Multi-rate control design under input constraints via fixed-time barrier functions"
+title:  "L-CSS 2021: Multi-rate control design under input constraints via fixed-time barrier functions"
 date:   2021-3-29 4:35:00 -0800
 categories: Research
 tags: [Publications]

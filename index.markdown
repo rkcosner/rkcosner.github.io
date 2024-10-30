@@ -4,9 +4,11 @@
 
 layout: single
 author_profile: true
-header: 
-  image: "/assets/images/CoverCropped.png"
+# header: 
+#   image: "/assets/images/CoverCropped.png"
 ---
+ 
+<figure> <picture> <img src="/assets/images/CoverCropped.png" width="100%" height="auto" alt="header image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure>
  
 <center>
 <b>About Me</b>

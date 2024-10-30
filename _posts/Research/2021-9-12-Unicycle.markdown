@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "LCSS 2022: A Constructive Method for Designing Safe Multirate Controllers for Differentially-Flat Systems"
+title:  "L-CSS 2022: A Constructive Method for Designing Safe Multirate Controllers for Differentially-Flat Systems"
 date:   2021-9-12 4:35:00 -0800
 categories: Research
 tags: [Publications]

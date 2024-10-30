@@ -1,0 +1,38 @@
+---
+layout: archive
+title:  "L-CSS  2024: Bounding Stochastic Safety:: Leveraging Freedman's INequality with Discrete-Time Control Barrier Functions"
+date:   2023-10-4 4:35:00 -0800
+categories: Research
+tags: [Publications]
+---
+Max H. Cohen, **Ryan K. Cosner<sup>&#42;</sup>**, and Aaron D. Ames. 
+
+<!-- <p align="center">
+<img src="/assets/images/icra23_authors_picture.png
+" alt="paper headshot"
+/>
+<img src="/assets/images/orio_logo.png
+" alt="orio" width="400"
+/>
+</p> -->
+
+
+*Accepted as a L-CSS paper with a presentation at CDC 2024*
+
+Links: 
+- [Official IEEE Xplore Version](https://ieeexplore.ieee.org/abstract/document/10552758)
+- [Free arXiv Version](https://arxiv.org/pdf/2406.02709)
+<!-- - [video](https://drive.google.com/file/d/1cWbQ8rvKEUbG7617Muvp86xPz6d6YM_n/preview) -->
+<!-- - [colab notebook](https://colab.research.google.com/drive/1PdD8qGjWKXsrNFoWuth10nI7-SRQ61-r?usp=sharing) -->
+<!-- - [github repo](https://github.com/rkcosner/icra23_paper_code)  -->
+
+<hr>
+## Abstract
+
+<p align="justify">
+Certifying the safety of nonlinear systems, through the lens of set invariance and control barrier functions (CBFs), offers a powerful method for controller synthesis, provided a CBF can be constructed. This paper draws connections between partial feedback linearization and CBF synthesis. We illustrate that when a control affine system is input-output linearizable with respect to a smooth output function, then, under mild regularity conditions, one may extend any safety constraint defined on the output to a CBF for the full-order dynamics. These more general results are specialized to robotic systems where the conditions required to synthesize CBFs simplify. The CBFs constructed from our approach are applied and verified in simulation and hardware experiments on a quadrotor.
+</p>
+
+
+<hr> 
+
