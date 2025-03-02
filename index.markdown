@@ -14,6 +14,7 @@ author_profile: true
 <b>About Me</b>
 </center>
 
+
 <center>
 <p align="justify">
 Hi, my name is Ryan K. Cosner. I am currently wrapping up my PhD in Mechanical Engineering at Caltech where I am advised by <a href="http://ames.caltech.edu/">Prof. Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. In the Summer of 2022, I interned with Nvidia's <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> where I was advised by Dr. Yuxiao Chen, Prof. Karen Leung, and Prof. Marco Pavone. I received my BS in 2019 from UC, Berkeley where I worked with Prof. Alice Agogino. My main research interests are nonlinear, risk-sensitive control and machine learning and their applications to robots in uncertain, low-data and safety-critical environments. 
