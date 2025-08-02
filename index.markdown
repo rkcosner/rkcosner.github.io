@@ -10,23 +10,28 @@ author_profile: true
  
 <figure> <picture> <img src="/assets/images/CoverCropped.png" width="100%" height="auto" alt="header image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure>
  
-<center>
+<!--<center>
 <b>About Me</b>
 </center>
-
+-->
 
 <center>
 <p align="justify">
-Hi, my name is Ryan K. Cosner. I am currently wrapping up my PhD in Mechanical Engineering at Caltech where I am advised by <a href="http://ames.caltech.edu/">Prof. Aaron Ames</a> as a member of the <a href="http://www.bipedalrobotics.com/">AMBER Lab</a>. In the Summer of 2022, I interned with Nvidia's <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> where I was advised by Dr. Yuxiao Chen, Prof. Karen Leung, and Prof. Marco Pavone. I received my BS in 2019 from UC, Berkeley where I worked with Prof. Alice Agogino. My main research interests are nonlinear, risk-sensitive control and machine learning and their applications to robots in uncertain, low-data and safety-critical environments. 
+Hi, my name is Ryan K. Cosner. I'm an  <a href="https://engineering.tufts.edu/me/people/faculty/ryan-cosner"> Assistant Professor</a> at Tufts University (starting in January 2026). Before coming to Tufts I earned my Ph.D. from Caltech, my B.S. from UC Berkeley, and worked with the Autonomous Vehicle Research Group at Nvidia. 
 </p>
-<center>
-<br>
 
-</center>
-Outside of research I enjoy giving back to my community, playing music, drawing, learning languages, and racing triathlons.
+<p align="justify">
+<b><i>I want to make robots that we can trust. </i></b>
+My research lies at the intersection of robotics, machine learning, and control theory, with the goal of enabling provably safe and dynamic robot autonomy in real-world settings. I bridge theory and practice through the development of risk-aware control frameworks, efficient deployable algorithms, and validation on a wide range of robot platforms.
+</p>
+
+
+<p align="justify">
+<b><i>Prospective students:</i></b> <mark>I'm looking for motivated students to join my lab!</mark> Please see <a href="/lab/"><b>here</b></a> for more information. 
+</p>
 </center>
 
-<!--For the Summer of 2022 I will be a Research Intern with the <a href="https://nvr-avg.github.io/">Autonomous Vehicle Research Group</a> at Nvidia under the advisement of <a href="https://profiles.stanford.edu/marco-pavone">Marco Pavone</a>. -->
+
 
 <br>
 
@@ -69,7 +74,7 @@ Outside of research I enjoy giving back to my community, playing music, drawing,
         <div class="archive__item-body">
             <h2 class="archive__item-title">Curriculum Vitae (CV)</h2>
             <div class="archive__item-excerpt">
-            <p>For more details on my experiences please download my CV using the link below. Last updated (10/20/24). </p>
+            <p>For more details on my experiences please download my CV using the link below. Last updated (7/31/25). </p>
             </div>
             <p><a href="/assets/files/Resume.pdf" class="btn btn--primary">Download CV</a></p>
         </div>

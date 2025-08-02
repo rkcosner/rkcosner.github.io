@@ -6,65 +6,21 @@ author_profile: true
 comments: true
 ---
 
+Some miscellaneous resources and blog posts
 
-Outside of my work I enjoy reading, playing trombone and guitar, and racing triathlons. Here is a collection of things that I've enjoyed. 
+## Resources
+- [Research Library](/library/research-library/)
 
 
-{% for tag in site.tags %}
-{% if ({tag[0]} == "Triathlon and Other Outdoor Adventures") %}
-<h2>{{tag[0]}}</h2>
-<ul>
-{% for post in tag[1] %}
-<li>
-<h3><a href="{{ post.url }}">{{ post.title }}</a> </h3>
-{{post.excerpt}}</li>
+## Academic Blog Posts
+- [What is control theory?](/blogs/Control-and-Dynamical-Systems/)
+- [PhD Admissions](/blogs/grad-apps/)
+- [Faculty Applications](/blogs/faculty-apps/)
 
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %}
-
-{% for tag in site.tags %}
-{% if ({tag[0]} == "Music") %}
-<h2>{{tag[0]}}</h2>
-<ul>
-{% for post in tag[1] %}
-<li>
-<h3><a href="{{ post.url }}">{{ post.title }}</a> </h3>
-{{post.excerpt}}</li>
-
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %}
+## Fun Resources
+- [Triathlon](/miscCal-Tri/)
+- [Math Memes](/miscMath-Memes/)
+- [The Three Body Problem](miscThree-Body)
 
 
 
-{% for tag in site.tags %}
-{% if ({tag[0]} == "Books") %}
-<h2>{{tag[0]}}</h2>
-<ul>
-{% for post in tag[1] %}
-<li>
-<h3><a href="{{ post.url }}">{{ post.title }}</a> </h3>
-{{post.excerpt}}</li>
-
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %} 
-
-
-{% for tag in site.tags %}
-{% if ({tag[0]} == "Other") %}
-<h2>{{tag[0]}}</h2>
-<ul>
-{% for post in tag[1] %}
-<li>
-<h3><a href="{{ post.url }}">{{ post.title }}</a> </h3>
-{{post.excerpt}}</li>
-
-{% endfor %}
-</ul>
-{% endif %}
-{% endfor %} 

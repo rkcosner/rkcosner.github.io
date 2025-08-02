@@ -4,5 +4,17 @@
 
 @charset "utf-8";
 
+/* 1) OVERRIDES: set these BEFORE importing the theme */
+$max-width: 1300px;         /* wider content column (default is ~1100px) */
+$right-sidebar-width: 300px; /* optional: keep sidebar proportionate */
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* 3) Keep type smaller on wide screens */
+@media (min-width: 1200px) {
+    html { font-size: 16px; }           /* prevent the theme’s large-screen bump */
+    .page__content { font-size: 1rem; } /* safety net if your skin scales content */
+  }
+  

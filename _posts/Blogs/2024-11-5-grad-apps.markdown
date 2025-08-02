@@ -100,3 +100,6 @@ Fellowship applications are generally due in October and can be a great way to g
 Some advice that I got that I found useful: 
 - This is going to be one of the first times where people might outright disagree with the life path, so it’s important to take initiative, stand proud, know yourself and make decisions. For example, my dad never understood why I didn't just drop out with a masters to earn more money sooner. 
 - When choosing a school, you are actually ***choosing a lab***. Yes, you should like the research directions that the lab has, but more importantly, you should like the advisor and the other grad students. Grad school is about intellectual discovery, so it is very likely that you'll find new reseach directions that you've never heard of before. And that's totally great! You just want to make sure that you have a supportive, caring, empathetic, and compassionate environment to make those discovers. Make sure that you choose a place where you feel comfortable taking academic risks, like exploring new ideas and sharing thoughts even before you've had a chance to fully polish them. 
+
+
+# Good Luck! 
