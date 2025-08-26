@@ -18,7 +18,9 @@ defaults:
       related: true
 ---
 
-The ***Learned and Optimization-Based Safe Technologies and Autonomy*** (LOBSTA) Lab 
+The Tufts ***SRC*** (Safe Robotics & Control) Lab 
+
+<!--The ***Learned and Optimization-Based Safe Technologies and Autonomy*** (LOBSTA) Lab -->
 
 **Research Vision**: *develop safe, deployable, and trustworthy robot autonomy with the goal of enabling robots to capably and confidently work alongside humans.* <!--*Unlock safe, high-performance behavior and lifelong general autonomy for robotic systems by accounting for real-world uncertainty*.--> 
 

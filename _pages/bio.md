@@ -14,7 +14,7 @@ comments: true
 
 
 
-Ryan Kazuo (<ruby>一男<rt>かずお</rt></ruby>) Cosner (he/they) is the Glenn R. Stevens Assistant Professor of Mechanical Engineering at Tufts University (starting in January 2026). He directs the [**LOBSTA Lab**](/lab/) (*Learning and Optimization-Based Safe Technologies and Autonomy Lab*), which seeks to revolutionize robot safety and enable performant, trustworthy, and capable robots to be deployed confidently alongside humans. His research spans robotics, machine learning, and control theory, with an emphasis on theoretical rigor and practical utility. 
+Ryan Kazuo (<ruby>一男<rt>かずお</rt></ruby>) Cosner (he/they) is the Glenn R. Stevens Assistant Professor of Mechanical Engineering at Tufts University (starting in January 2026). He directs the [**Tufts SRC Lab**](/lab/) (*Tufts Safe Robotics & Control Lab*), which seeks to revolutionize robot safety and enable performant, trustworthy, and capable robots to be deployed confidently alongside humans. His research spans robotics, machine learning, and control theory, with an emphasis on theoretical rigor and practical utility. 
 
 Ryan earned his B.S. in Mechanical Engineering from the University of California, Berkeley (2019), and his M.S. (2021) and Ph.D. (2025) from Caltech. In 2022, he worked as a research intern with the Autonomous Driving Research Group at Nvidia. He was recognized as an Outstanding Teaching Assistant at Caltech in 2024. 
 
