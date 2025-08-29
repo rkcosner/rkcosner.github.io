@@ -24,7 +24,7 @@ The Tufts ***SRC*** (Safe Robotics & Control) Lab
 
 **Research Vision**: *develop safe, deployable, and trustworthy robot autonomy with the goal of enabling robots to capably and confidently work alongside humans.* <!--*Unlock safe, high-performance behavior and lifelong general autonomy for robotic systems by accounting for real-world uncertainty*.--> 
 
-**Research Philosophy**: Our research follows a theory-algorithm-application loop. We develop *application-motivated theory* and use that to design *provably sound algorithms* that we then deploy on *real-world systems*. This iterative process deepens theoretical understanding and applied expertise, while ensuring that research remains rigorously accurate, computationally feasible, and practically impactiful. 
+**Research Philosophy**: Our research follows a theory-algorithm-application loop. We develop *application-motivated theory* and use that to design *provably sound algorithms* that we deploy on *real-world systems*. This iterative process deepens theoretical understanding and applied expertise, while ensuring that research remains rigorously accurate, computationally feasible, and practically impactiful. 
 
 ![research philosophy](/assets/images/lobsta_lab/research_philosophy.png)
 
@@ -34,7 +34,7 @@ The Tufts ***SRC*** (Safe Robotics & Control) Lab
 
 
 ## Research Directions
-1. **Real-world Safety Guarantees**: cevelop safety guarantees for robotic systems based on physically grounded assumptions, rather than idealized mathematical models. By integrating interdisciplinary robustness metrics from fields like computer vision, machine learning, and control, we aim to enable confident, real-world deployment of safety-critical robots. <!--This research involves a rigorous mathmetical exploration of the impact of uncertainty on safety and methods for accounting for it.-->
+1. **Real-world Safety Guarantees**: develop safety guarantees for robotic systems based on physically grounded assumptions, rather than idealized mathematical models. By integrating interdisciplinary robustness metrics from fields like computer vision, machine learning, and control, we aim to enable confident, real-world deployment of safety-critical robots. <!--This research involves a rigorous mathmetical exploration of the impact of uncertainty on safety and methods for accounting for it.-->
 2. **Lifelong Safety in Novel Environments**: build systems that synthesize safety constraints from sensor data on the fly and reason about risk to balance performance and conservatism. Our goal is to enable robots to safely explore unfamiliar environments, improve over time, and maintain reliability across both new and familiar scenarios. <!--This involves data-efficient machine learning techniques to safely adapt to new environments. -->
 3. **Human-Interactive Safety Guarantees**: develop autonomous systems that reason about uncertainty, social norms, and shared responsibility in partially observable, multi-agent environments. By combining risk-aware prediction with safe, life-long learning, we aim to build robots that interact fluently and safely with humans in everyday settings. <!--This involves -->
 
