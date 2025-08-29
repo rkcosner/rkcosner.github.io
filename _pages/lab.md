@@ -1,5 +1,5 @@
 ---
-title:  "The LOBSTA Lab"
+title:  "Tufts SRC Lab"
 layout: archive
 permalink: /lab/
 author_profile: true
