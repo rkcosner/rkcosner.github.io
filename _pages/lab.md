@@ -1,5 +1,5 @@
 ---
-title:  "Tufts SRC Lab"
+title:  "SRC Lab"
 layout: archive
 permalink: /lab/
 author_profile: true
