@@ -18,7 +18,7 @@ defaults:
       related: true
 ---
 
-The Tufts ***SRC*** (Safe Robotics & Control) Lab 
+Tufts SRC Lab—Safe Robotics & Control, said pronounced like “Source”. 
 
 <!--The ***Learned and Optimization-Based Safe Technologies and Autonomy*** (LOBSTA) Lab -->
 
@@ -31,10 +31,11 @@ The Tufts ***SRC*** (Safe Robotics & Control) Lab
 ## Work with us:
 - **Prospective PhD students:** I'm happy to share that I'm recruiting talented and driven PhD students to join my lab! I will review and admit students in the 2025-2026 application cycle for a Fall 2026 start date. If you have a strong background in robotics, machine learning, and/or control theory, please apply to the Tufts [Mechanical Engineering PhD program](https://engineering.tufts.edu/me/prospective-students/phd) and mention my name in your application. I'm looking forward to meeting you!
 - **Tufts undergraduates and masters students:** If you are interested in research opportunities, please [email me](ryan.cosner@tufts.edu) and let me know about your research interests and background. Let's do some cool robotics together!
+- **Please see the our [Q&A](/q_and_a/) page for more info about the lab.**
 
 
 ## Research Directions
-1. **Real-world Safety Guarantees**: develop safety guarantees for robotic systems based on physically grounded assumptions, rather than idealized mathematical models. By integrating interdisciplinary robustness metrics from fields like computer vision, machine learning, and control, we aim to enable confident, real-world deployment of safety-critical robots. <!--This research involves a rigorous mathmetical exploration of the impact of uncertainty on safety and methods for accounting for it.-->
+1. **Real-world Safety Guarantees**: develop safety guarantees for robotic systems based on physically-grounded assumptions, rather than idealized mathematical models. By integrating interdisciplinary robustness metrics from fields like computer vision, machine learning, and control, we aim to enable confident, real-world deployment of safety-critical robots. <!--This research involves a rigorous mathmetical exploration of the impact of uncertainty on safety and methods for accounting for it.-->
 2. **Lifelong Safety in Novel Environments**: build systems that synthesize safety constraints from sensor data on the fly and reason about risk to balance performance and conservatism. Our goal is to enable robots to safely explore unfamiliar environments, improve over time, and maintain reliability across both new and familiar scenarios. <!--This involves data-efficient machine learning techniques to safely adapt to new environments. -->
 3. **Human-Interactive Safety Guarantees**: develop autonomous systems that reason about uncertainty, social norms, and shared responsibility in partially observable, multi-agent environments. By combining risk-aware prediction with safe, life-long learning, we aim to build robots that interact fluently and safely with humans in everyday settings. <!--This involves -->
 

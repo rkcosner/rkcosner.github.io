@@ -68,12 +68,12 @@ Outside of work, I enjoy playing music (trombone and guitar), drawing, reading, 
 - **Favorite Robots**: Baymax, Perseverance, BB8
 - **Best concerts I've been to**: the Mowgli's in Haight-Ashbury, the Killers at the Chase Center, Lawrence at the Wiltern, and Theo Katzman at the Troubadour. 
 - **Favorite movies**: *Your Name*, *Big Hero 6*,  *Lilo and Stitch*, *500 days of Summer*, *Juno*, *Scott Pilgrim vs. The World*, *10 Things I Hate About You*. 
-- **Favorite books**: *Klara and the Sun* - Kazuo Ishiguro, *The Three Body Problem* - Cixin Liu, *I, Robot* - Isaac Asimov, *Crying in H Mart* - Michelle Zauner
+- **Favorite books**: *Klara and the Sun* - Kazuo Ishiguro, *The Three Body Problem* - Cixin Liu, *I, Robot* - Isaac Asimov, *Crying in H Mart* - Michelle Zauner, *What I Talk About When I Talk ABout Running* - Haruki Murakami
 - **Favorite places**: Zion National Park, Miyajima Island, Yellowstone National Park, Okayama's Korakuen Garden, Griffith Observatory, Uji's Tsuen tea house, Napili Bay, Salem, Cusco. 
 - **Boston Food Recommendations**: Yume wo Katare (ramen), Yume ga Arukara (udon), Celeste (peruvian), Veggie Galaxy (vegan diner). 
 - **Favorite Runs/Bike Rides**: Grizzly Peak in Berkeley (bike), Charles River in Boston (run), Ohori Park in Fukuoka (run), Oceanside 70.3 (triathlon), SF marathon (run). Add me on [Strava](https://www.strava.com/athletes/14677765) to see what I've been up to recently! 
 - **Favorite Things to Cook**: Spam musubi, korokke, okonomiyaki, katsu curry, avocado toast, spinach-basil pesto, pancakes, inarizushi. 
-- **Favorite Holiday**: Halloween ([check out my costumes](TODO)). 
+- **Favorite Holiday**: Halloween 
 - **Languages**: *Yo diría que hablo español a nivel conversacional*, *そして日本語を少し話せます*。
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px;">

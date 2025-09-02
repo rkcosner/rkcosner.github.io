@@ -21,7 +21,7 @@ defaults:
 
 At a high-level my research focuses on controls and machine learning for real-world robot safety. 
 
-For an in-depth understanding of my research, check out my thesesi: [***Dynamic Safety Under Uncertainty: A Control Barrier Function Approach***](https://thesis.library.caltech.edu/17351/) or the recording of my  thesis defense presentation:
+For an in-depth understanding of my research, check out my thesis: [***Dynamic Safety Under Uncertainty: A Control Barrier Function Approach***](https://thesis.library.caltech.edu/17351/) or the recording of my  thesis defense presentation:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_DD2IeDO9I?si=tZni-zilEXYuDICE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr> 

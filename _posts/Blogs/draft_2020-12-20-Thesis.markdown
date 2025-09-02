@@ -14,8 +14,6 @@ This page outlines my motivation and current and future work for my thesis. In g
 
 
 
-
-
 ## Motivation 
 Robotics and its related fields have made significant strides forward in the recent decades. Notably, 
 * SLAM (Simultaneous Localization And Mapping)

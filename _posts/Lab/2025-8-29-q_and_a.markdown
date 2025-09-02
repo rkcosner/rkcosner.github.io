@@ -1,0 +1,253 @@
+---
+title:  "Tufts SRC Lab Q&A"
+layout: archive
+permalink: /q_and_a/
+author_profile: true
+comments: true
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+---
+
+## Question and Answers for SRC Lab Researchers
+Here you can find relevant information about what it is like to be a member of the lab. Click on the questions to see the answers. 
+
+## Research
+<hr>
+<details>
+  <summary><b>What the lab's balance of theory, software, and hardware?</b></summary>
+
+  <div markdown="1">
+  
+  In our lab we need to do a little bit of everything. As academic researchers, we develop theory for "*why*" things should work. As roboticists, we make the theory work in practice through software and hardware implementation.
+    
+  Robotics requires a range of abilities and every person will have different skills and preferences. What is important is that you have an interest and respect for every part of the process: theory, software, and hardware. 
+
+  </div>
+</details>
+
+<hr>
+<details>
+  <summary><b>What classes would be useful to do research with SRC? What should I read to get started?</b></summary>
+
+  <div markdown="1">
+  
+  Our research bridges robotics, control theory, and machine learning, so it is useful to have a background in each of those three subjects as well as a solid understanding of the underlying math. 
+
+  Here are recommended topics and courses: Math (linear algebra, differential equations, analysis, optimization, probability), Robotics (mobile robotics), Control Theory, Machine Learning. 
+
+  Here are some great resources to get you started if you haven't had the opportunity to take those classes yet: [the matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), [understanding analysis](http://ndl.ethernet.edu.et/bitstream/123456789/88631/1/2015_Book_UnderstandingAnalysis.pdf), [convex optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), [feedback systems](https://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_22Feb09.pdf), [Steve Brunton's youtube channel](https://www.youtube.com/@Eigensteve).
+
+  Also, for more academic resources, you can check out our [research library](/library/research-library/) page. 
+  </div>
+</details>
+
+<hr>
+
+<details>
+  <summary><b>What non-classroom skills and knowledge are useful for research in the lab? </b></summary>
+
+  <div markdown="1">
+  Remember, the scientific method is: *observe --> question --> hypothesize --> experiment --> analyze --> communicate results --> repeat*. A **huge** part of science is in communicating results, so therefore it is critical that we, as researchers, develop our communication skills. This includes public speaking and designing slide decks for presentations. Video editing and figure design are also surprisingly important skills for a research roboticists as videos and figures can really help to communicate a result. For scientific communication in math, it is incredibly useful to know how to use latex and I would recommend using [Overleaf](https://www.overleaf.com/) as your latex editor that has a lot of google-docs-style functionality.  
+
+  Additionally, for work in the lab it is useful to have familiarity with software languages and packages including: C++, Python, Matlab, ROS2, Docker, pyTorch, the C++ Eigen matrix library, openCV, IsaacSim, MuJoCo. It isn't expect that you have familiarity with all of these, but it's useful to know what they are. 
+
+  For hardware and design knowledge, it can be very helpful if you're familiar with 3D design tools (e.g., solidworks) and manufacturing methods (e.g., 3D printer, laser cutter, water jet cutter, mill, lathe, CNC) as well as having a familiarity with standard hand tools (e.g., drills, wrench, allen keys) and electronics (e.g., soldering, circuit design). 
+
+  </div>
+</details>
+
+<hr>
+
+<details>
+  <summary><b>What are the labs standard research submission venues? Who gets to travel there?</b></summary>
+
+  <div markdown="1">
+  SRC Lab generally publishes our research at the following venues: 
+  - Control Theory Venues: 
+    - CDC (spring deadline, international control conference), ACC (fall deadline, American control conference), LCSS (short-form journal), TAC (long-form journal)
+  - Robotics Venues: 
+    - RSS (winter deadline, small + prestigious conference), IROS (spring deadline, large international conference), ICRA (fall deadline, large international conference), RAL (short-form journal), TRO (long-form journal)
+  - Machine Learning: 
+    - CORL (summer deadline, robotics + learning conference), L4DC (late fall deadline, control + learning conference), ICML (winter deadline)
+  
+  Lead author's of accepted research submissions will be supported by the lab to present their work at the associated conference. 
+  </div>
+
+</details>
+
+<hr>
+
+<!-- <details>
+  <summary><b>What are some of the lab's guiding philosophies?</b></summary>
+  
+  <div markdown="1">
+    - "Build it, break it, fix it."
+    - "All models are wrong, but some are useful" - George E. P. Box
+    - "Sometimes proving things in control theory is like playing Pokemon. You could try and catch them all, but that's not really the point." - Andrew Taylor
+    - "Just because the result is correct, it does not mean it should be published" - Magnus Egerstedt
+    * "Code is cheap, show me the hardware" - Magnus Egerstedt
+    - "Ultimately, a PhD is an acadedmic program. It's goal is not to produce ***research*** it is to produce ***researchers***. If you come in everyday and learn something knew, then you're succeeding" - Raffaello D'Andrea
+  </div>
+</details> -->
+<!-- 
+
+<hr> -->
+
+
+
+## Student Expectations
+<hr>
+<style>
+/* Indent nested details */
+details details {
+  margin-left: 20px;
+}
+</style>
+
+<details>
+  <summary><b>PhD Students</b></summary>
+  <br style="line-height: 4px;">
+  <details>
+    <summary><b>What does a typical PhD journey look like?</b></summary>
+    <p>Years 0-1.5: you should be building your academic foundation and getting your first research experiences. To do this you should expect to focus primarily on classes, while spending sometime in the lab working on your first project and getting familiar with the equipment. By the end of the first year you should have the foundational academic knowledge necessary to engage with research, as demonstrated by passing the qualifying exams which are generally taken in the students second January at Tufts. A good goal for students in this time period is to submit a first-authored conference paper in the fall of their first year (e.g., ICRA, ACC) or spring of their second year (e.g., IROS, CDC, RSS).</p>
+
+    <p>In subsequent years, you will continue taking classes and should engage in other activities like TAing, teaching, outreach, etc, but your main focus should be conducting research. In general, there should be a mix of projects that you are leading and projects where you are a collaborator. </p>
+
+    <p>At around year 4 or 5, after several years of focusing on research, you should have a body of work that you can be proud of that builds on itself and presents a narrative of inquiry. At this point, you can begin to finalize this research thrust and bring your work together into a thesis. </p>
+
+    <p>With that said, every student's journey is different though, so if you aren't sure how things are going or how to plan your schedule, let's find a time to chat.</p>
+  </details>
+  <br style="line-height: 4px;">
+  <details>
+    <summary><b>What are the publication expectations?</b></summary>
+    <p>1-2 first-author conference papers per year is a good goal to set. 2 papers every year if you've found an exciting and fruitful research direction and 1 if things aren't quite working out as expected, but you're still trying your best.  
+    By your third year, this should be a very doable proposition and you should be able to go from "rough idea" to "submitted conference paper" in 6 to 9 months.</p>
+
+    <p>Eventually, these 6-9 month research projects should culminate in a larger body of work that represents a significant research direction and becomes your thesis. Not every paper will necessarily contribute to that research story, but it should connect ~3 conference papers and culminate in a higher-impact publication (e.g., LCSS, RAL, RSS, TRO, TAC).</p>
+
+    <p>Importantly, the goal of the PhD is <u>not</u> to publish papers; the goal of the PhD is to train you to be a researcher. Unfortunately, that's harder to measure. The pressure to publish should never prevent you from engaging in thoughtful, committed research. Sometimes deep and profound thoughts take time and that's ok. If you feel like you're behind, let's chat.</p>
+  </details>
+  <br style="line-height: 4px;">
+
+  <details>
+    <summary><b>How do we select projects?</b></summary>
+    <p>Ideally we select projects together! What are we interested in? What seems fruitful? What are the important unanswered questions? </p>
+
+    <p>In general, projects should follow the scientific method.We begin by asking "what problem do we want to solve?" or "What is an unanswered question?", then explore the existing literature, hypothesize solutions, develop methods, test ideas, iterate, and report our findings.</p>
+
+    <p>Unforutunately, there is no way to know ahead of time whether or not an idea will work. But that's part of the fun of research! We're exploring into the unknown and so we have to follow our curiosities and our results and see where it takes us. </p>
+  </details>
+  <br style="line-height: 4px;">
+
+  <details>
+    <summary><b>What's some advice to stay motivated?</b></summary>
+    <p>Research is very different from classwork. There's no answer key and, unlike a problem set, there is no last problem. You can keep working on something forever with no idea whether or not what you're pursuing is even possible.</p>
+
+    <p>Thus, in order to stay motivated, it can be very useful to (1) keep regular hours like a 8-5 schedule, (2) enjoy your weekends and holidays, (3) invest in your support system of family and friends, (4) find enriching activities / hobbies outside of research. All of these things can help you find perspective stay motivated through the difficulties of the PhD.</p>
+  </details>
+  <br style="line-height: 4px;">
+
+
+  <details>
+    <summary><b>What are the work hours? When do I need to be in lab? What are the vacation policies?</b></summary>
+    <p>I prefer to leave this open-ended. I will not track your hours and trust you to be productive if you're working remotely. In general, robotics will require you to be in lab from time to time, but the degree to which you come in and the hours that you work are up to you.</p>
+
+    <p>Everyone needs and deserves vacations throughout the year. I trust you to take breaks from work and will do my best to remind you to take your vacation time. For logistical reasons, it is helpful to know if someone is going to miss meetings or be unavailable so please just let me know what your plans are during our regular research updates. Additionally, please see Tufts GSAS Union policies for vacation days.</p>
+  </details>
+  <br style="line-height: 4px;">
+</details>
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+<details>
+  <summary><b>Masters and Undergraduate Students</b></summary>
+
+  <div markdown="1">
+
+  The primary responsibility of masters and undergraduate students should be course work, but I am more than happy to have you spend some time working with us in the lab. Ultimately, the goal for your time working in the lab is to (1) learn new things, (2) apply your classroom knowledge, and (3) get an understanding of what it is like to conduct research. As long as you learn something new every time you come into lab, that's a success. 
+
+  In general, I would expect an masters and undergraduates to work under the guidance of a PhD student with the possibility of coauthorship of a research publication. Alternatively, for highly-motivated researchers, it may be possible to lead a research effort and write a paper as a "first-author". Leading a project is very hard work and can be very time consuming, so if this is something that you intend to pursue, let's discuss it early and plan out the steps.  
+  </div>
+</details>
+
+<hr>
+
+
+
+
+## Advising Style
+
+<hr>
+<details>
+  <summary><b>How do you prefer to communicate with students?</b></summary>
+
+  <p> For important communications, email is best. For everyday research and lab activities, slack is more efficient. Typically, I have 30 minute meetings with PhD students every  week, although this may vary on a case-by-case basis. In general I expect this meeting to be relatively casual updates on technical, administrative, and general life. There is no need to prepare anything beforehand. </p>
+
+  <p>In general, I try to be responsive to digital communication. However, I prioritize in-person communication, so if you need to discuss something in-depth or urgent, it is better to discuss in-person. In general, I try to set aside time every morning to clear out my inbox, so you can expect a response at least once a day before noon. If you are a member of the lab, I will not "ghost" you, so if you did not get a reply to an email when you were expecting one, I apologize and please follow up.</p>
+</details>
+
+<hr>
+<details>
+  <summary><b>How would you describe your advising philosophy? </b></summary>
+
+  <div markdown="1">
+  I have a few ideas that drive my advising philosophy. Firstly, I believe that *a PhD education should be about producing reseach**<u>ers</u>** and not about producing research.* The research results are a necessary result of that process, but not the main goal. Secondly, I like to think of the research process as a class that the PhD student is taking. In this circumstance, the advisor is the *<u>TA</u>* and not the teacher. The laws of nature/science/logic are the teacher, and the advisor is the TA trying to help you understand the teacher's really confusing lecture notes. 
+
+  Ultimately, the PhD should be an educational experience for the student and I believe in centering a students learning and growth first and foremost. 
+
+  I try to engage in research with my students as though I were a well-informed collaborator. I give students space to work independently and then meet with them periodically to help pull ideas together. My natural inclination is to be hands-on when collaborating in-person during scheduled meetings, but to give students time to work independently between meetings. That said, I am willing to work on a case-by-case-basis to establish the advising relationship that works best for each student.  
+  </div>
+</details>
+
+<hr>
+<details>
+  <summary><b>What does career advising look like in the lab? What about internships and industry careers?</b></summary>
+
+  <div markdown="1">
+  I have twice-a-year career check-in meetings with students. Over the course of the PhD people's career goals will likely change and I want to help you guide your PhD journey to best support your post-PhD goals. 
+
+  I fully support my students going into academia, industry, or whatever third option they want to pursue and am happy to discuss how to best shape their PhD towards those goals. 
+
+  I think that every PhD student, and especially robotics PhD students, should do a 3-month internship during their PhD. It can give them great perspective on the problems that their working on, introduce them to new ideas, significantly supplement the PhD stipend, and help them build their network of connections. I recommend the summer after the 3rd or 4th year of the PhD as an ideal time to do an internship because it can inspire the final push in your research and build useful industry connections that will help you get a job after the PhD. 
+
+  A second internship can also be a great idea, especially if it is at a largely different place (e.g., once at a research institute and once at a startup). A third internship is where the benefits maybe offset to the costs for your PhD in terms of continuity and timeline, but I'm happy to discuss this on a case-by-case basis. 
+  </div>
+</details>
+<hr>
+
+## Lab Culture
+
+<hr>
+<details>
+  <summary><b>What is the lab culture like?</b></summary>
+
+  <p> SRC lab is brand new so we are still developing our lab culture! In addition to research activities, I intend to hold regular social events. Prof. Chris Rogers has also brought up some intra-departmental robot competitions, so we'll see about that.</p>
+
+</details>
+<hr> 
+<details>
+  <summary><b>What are the plans for the lab in the future?</b></summary>
+
+  <p> The goal is for SRC Lab to grow into a bustling research space with 5+ PhD students, 2+ masters students, and 4+ undergraduate students that are passionate, self-motivated, and curious who are pushing the limits of what we can do in robotics and how we understand safety in autonomy. Additionally, I want to develop a collaborative, convivial environment where we learn from each other and enjoy working together. </p>
+
+
+</details>
+<hr>

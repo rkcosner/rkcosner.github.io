@@ -2,9 +2,23 @@ main:
   - title: "research"
     url: /research/
   - title: "lab"
-    url: /lab/
+    sublinks: 
+      - title: "about us"
+        url: /lab/
+      - title: "q&a"
+        url: /q_and_a/
+      # - title: "library"
+        # url: /library/research-library/
+  # - title: "resources"
+  #   sublinks: 
+  #     - title: "faculty application advice"
+  #       url: /blogs/faculty_apps/
+  #     - title: "phd application advice"
+  #       url: /blogs/grad_apps/
+
   - title: "bio/cv"
-    url: /bio/ #/assets/files/Resume.pdf
+    url: /bio/ 
+  #/assets/files/Resume.pdf
   # - title: "misc."
   #   url: /misc/
   # - title: "blogs"
