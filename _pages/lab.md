@@ -30,7 +30,7 @@ Tufts SRC Lab—Safe Robotics & Control, said pronounced like “Source”.
 
 ## Work with us:
 - **Prospective PhD students:** I'm happy to share that I'm recruiting talented and driven PhD students to join my lab! I will review and admit students in the 2025-2026 application cycle for a Fall 2026 start date. If you have a strong background in robotics, machine learning, and/or control theory, please apply to the Tufts [Mechanical Engineering PhD program](https://engineering.tufts.edu/me/prospective-students/phd) and mention my name in your application. I'm looking forward to meeting you!
-- **Tufts undergraduates and masters students:** If you are interested in research opportunities, please [email me](ryan.cosner@tufts.edu) and let me know about your research interests and background. Let's do some cool robotics together!
+- **Tufts undergraduates and masters students:** If you are interested in research opportunities, please email me at ***ryan.cosner@tufts.edu*** and let me know about your research interests and background. Let's do some cool robotics together!
 - **Please see the our [Q&A](/q_and_a/) page for more info about the lab.**
 
 
