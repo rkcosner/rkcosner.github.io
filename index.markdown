@@ -17,7 +17,7 @@ author_profile: true
 
 <center>
 <p align="justify">
-Hi, my name is Ryan K. Cosner. I'm an  <a href="https://engineering.tufts.edu/me/people/faculty/ryan-cosner"> Assistant Professor</a> at Tufts University (starting in January 2026). Before coming to Tufts I earned my Ph.D. from Caltech, my B.S. from UC Berkeley, and worked with the Autonomous Vehicle Research Group at Nvidia. 
+Hi, my name is Ryan K. Cosner. I'm an  <a href="https://engineering.tufts.edu/me/people/faculty/ryan-cosner"> Assistant Professor at Tufts University</a> (starting in January 2026). Before coming to Tufts I earned my Ph.D. from Caltech, my B.S. from UC Berkeley, and worked with the Autonomous Vehicle Research Group at Nvidia. 
 </p>
 
 <p align="justify">
