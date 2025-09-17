@@ -1,5 +1,5 @@
 ---
-title:  "Tufts SRC Lab Q&A"
+title:  "Tufts SRC (Safe Robotics & Control) Lab Q&A"
 layout: archive
 permalink: /q_and_a/
 author_profile: true
@@ -20,8 +20,22 @@ defaults:
 ## Question and Answers for SRC Lab Researchers
 Here you can find relevant information about what it is like to be a member of the lab. Click on the questions to see the answers. 
 
-## Research
+## About Us 
 <hr>
+<details>
+  <summary><b>What does "SRC" mean?</b></summary>
+
+  <div markdown="1">
+  
+  "SRC" stands for "**S**afe **R**obotics and **C**ontrol.
+
+  The "SRC" is pronounced in the same way as "source" and is a reference to the *src* folder commonly found in robotics code and programming projects in general. Just as the *src* folder holds the most foundational code that everything else builds on, the SRC Lab focuses on fundamental theory and algorithms that will serve as the foundation for safe and reliable robotic systems.  
+
+  </div>
+</details>
+
+<hr> 
+
 <details>
   <summary><b>What is the lab's balance of theory, software, and hardware?</b></summary>
 
@@ -35,6 +49,11 @@ Here you can find relevant information about what it is like to be a member of t
 </details>
 
 <hr>
+
+## Research
+<hr>
+
+
 <details>
   <summary><b>What classes would be useful to do research with SRC? What should I read to get started?</b></summary>
 

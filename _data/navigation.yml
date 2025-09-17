@@ -9,10 +9,10 @@ main:
         url: /q_and_a/
       # - title: "library"
         # url: /library/research-library/
-  # - title: "resources"
-  #   sublinks: 
-  #     - title: "faculty application advice"
-  #       url: /blogs/faculty_apps/
+  - title: "resources"
+    sublinks: 
+      - title: "faculty application advice"
+        url: /blogs/faculty_apps/
   #     - title: "phd application advice"
   #       url: /blogs/grad_apps/
 

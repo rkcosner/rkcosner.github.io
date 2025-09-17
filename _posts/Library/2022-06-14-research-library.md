@@ -7,7 +7,7 @@ categories: Library
 tags : [Library]
 ---
 
-Here is a list of some of the quotes and published works that inspire my research. 
+Here is a list of some of the quotes and published works that inspire our research. 
 
 ## Quotes
 * "What would Tadashi Hamada do?"
@@ -59,4 +59,4 @@ Here is a list of some of the quotes and published works that inspire my researc
 
 
 * **Linear Control** 
-  * [Guaranteed Margins for LQG Regulators](https://authors.library.caltech.edu/93672/1/01101812.pdf). John Doyle. 1978.8 
+  * [Guaranteed Margins for LQG Regulators](https://authors.library.caltech.edu/93672/1/01101812.pdf). John Doyle. 1978.

@@ -18,7 +18,7 @@ defaults:
       related: true
 ---
 
-Tufts SRC Lab—Safe Robotics & Control, said pronounced like “Source”. 
+Tufts SRC (Safe Robotics & Control, pronounced like “Source”) Lab. 
 
 <!--The ***Learned and Optimization-Based Safe Technologies and Autonomy*** (LOBSTA) Lab -->
 
