@@ -1,7 +1,7 @@
 main:
   - title: "research"
     url: /research/
-  - title: "lab"
+  - title: "SRC lab"
     sublinks: 
       - title: "about us"
         url: /lab/
