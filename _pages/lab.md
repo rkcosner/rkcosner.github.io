@@ -1,5 +1,5 @@
 ---
-title:  "SRC Lab"
+title:  "SPARC Lab"
 layout: archive
 permalink: /lab/
 author_profile: true
@@ -18,7 +18,7 @@ defaults:
       related: true
 ---
 
-Tufts SRC (Safe Robotics & Control, pronounced like “Source”) Lab. 
+Tufts SPARC (Safe & Performant Autonomous Robotics & Control, pronounced like “spark”) Lab. 
 
 <!--The ***Learned and Optimization-Based Safe Technologies and Autonomy*** (LOBSTA) Lab -->
 

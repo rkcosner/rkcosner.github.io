@@ -1,5 +1,5 @@
 ---
-title:  "Tufts SRC (Safe Robotics & Control) Lab Q&A"
+title:  "Tufts SPARC (Safe & Performant Autonomous Robotics & Control) Lab Q&A"
 layout: archive
 permalink: /q_and_a/
 author_profile: true
@@ -17,19 +17,21 @@ defaults:
       related: true
 ---
 
-## Question and Answers for SRC Lab Researchers
+## Question and Answers for SPARC Lab Researchers
 Here you can find relevant information about what it is like to be a member of the lab. Click on the questions to see the answers. 
 
 ## About Us 
 <hr>
 <details>
-  <summary><b>What does "SRC" mean?</b></summary>
+  <summary><b>What does "SPARC" mean?</b></summary>
 
   <div markdown="1">
   
-  "SRC" stands for "**S**afe **R**obotics and **C**ontrol.
+  "SPARC" stands for "**S**afe and **P**erformant **A**utonomous **R**obotics and **C**ontrol.
 
-  The "SRC" is pronounced in the same way as "source" and is a reference to the *src* folder commonly found in robotics code and programming projects in general. Just as the *src* folder holds the most foundational code that everything else builds on, the SRC Lab focuses on fundamental theory and algorithms that will serve as the foundation for safe and reliable robotic systems.  
+  The "SPARC" is pronounced in the same way as "sparc" and is a reference to the spark of innovation that drives our ideas and the spark of electricity that drives our robots. 
+  
+  <!-- to the *src* folder commonly found in robotics code and programming projects in general. Just as the *src* folder holds the most foundational code that everything else builds on, the SRC Lab focuses on fundamental theory and algorithms that will serve as the foundation for safe and reliable robotic systems.   -->
 
   </div>
 </details>
@@ -55,7 +57,7 @@ Here you can find relevant information about what it is like to be a member of t
 
 
 <details>
-  <summary><b>What classes would be useful to do research with SRC? What should I read to get started?</b></summary>
+  <summary><b>What classes would be useful to do research with SPARC? What should I read to get started?</b></summary>
 
   <div markdown="1">
   
@@ -90,7 +92,7 @@ Here you can find relevant information about what it is like to be a member of t
   <summary><b>What are the labs standard research submission venues? Who gets to travel there?</b></summary>
 
   <div markdown="1">
-  SRC Lab generally publishes our research at the following venues: 
+  SPARC Lab generally publishes our research at the following venues: 
   - Control Theory Venues: 
     - CDC (spring deadline, international control conference), ACC (fall deadline, American control conference), LCSS (short-form journal), TAC (long-form journal)
   - Robotics Venues: 
@@ -264,7 +266,7 @@ details details {
 <details>
   <summary><b>What is the lab culture like?</b></summary>
 
-  <p> SRC lab is brand new so we are still developing our lab culture! In addition to research activities, I intend to hold regular social events. Prof. Chris Rogers has also brought up some intra-departmental robot competitions, so we'll see about what fun robotics-related events we can get going at Tufts.</p>
+  <p> SPARC lab is brand new so we are still developing our lab culture! In addition to research activities, I intend to hold regular social events. Prof. Chris Rogers has also brought up some intra-departmental robot competitions, so we'll see about what fun robotics-related events we can get going at Tufts.</p>
 
   <p>Ultimately, we'll be shaping the lab culture together! I want to hear from you about what *you* want for the lab. This will be through both informal suggestions and bi-annual anonymous reverse job reviews where I want to hear your suggestions for me and for the lab. </p>
 
@@ -273,7 +275,7 @@ details details {
 <details>
   <summary><b>What are the plans for the lab in the future?</b></summary>
 
-  <p> The goal is for SRC Lab to grow into a bustling research space with 5+ PhD students, 2+ masters students, and 4+ undergraduate students that are passionate, self-motivated, and curious who are pushing the limits of what we can do in robotics and how we understand safety in autonomy. Additionally, I want to develop a collaborative, convivial environment where we learn from each other and enjoy working together. </p>
+  <p> The goal is for SPARC Lab to grow into a bustling research space with 5+ PhD students, 2+ masters students, and 4+ undergraduate students that are passionate, self-motivated, and curious who are pushing the limits of what we can do in robotics and how we understand safety in autonomy. Additionally, I want to develop a collaborative, convivial environment where we learn from each other and enjoy working together. </p>
 
 
 </details>
