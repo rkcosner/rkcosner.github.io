@@ -11,7 +11,7 @@ main:
         # url: /library/research-library/
   - title: "resources"
     sublinks: 
-      - title: "academic paper guidelines"
+      - title: "academic writing guidelines"
         url: /blogs/paper_writing_advice/
       - title: "faculty application advice"
         url: /blogs/faculty_apps/

@@ -35,6 +35,11 @@ In general papers tend to follow similar formats in their sections:
 
 # More In-Depth Info
 
+## Figure Making
+In general, I highly recommend that figures be vector graphics (.svg or .pdf format) whenever possible. These figures will remain lossless, editable, and allow infinite zoom. Alternatively, pixelized image formats like .png or .jpg cause data loss and have limited zoom capabilities. 
+
+For editing vector graphics I recommend the open source package [Inkscape](https://inkscape.org/) and the [TexText](https://textext.github.io/textext/) extension for Inkscape that will allow you to import math text as vector graphics. 
+
 ## Section 0: the Abstract
 
 <details>
@@ -48,7 +53,6 @@ In general papers tend to follow similar formats in their sections:
       <li>Demonstrations or Utility (one sentence)</li>
     </ol>
 </details>
-
 
 ## Section 1: Introduction 
 
