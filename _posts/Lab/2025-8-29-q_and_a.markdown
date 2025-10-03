@@ -29,7 +29,7 @@ Here you can find relevant information about what it is like to be a member of t
   
   "SPARC" stands for "**S**afe and **P**erformant **A**utonomous **R**obotics and **C**ontrol.
 
-  The "SPARC" is pronounced in the same way as "sparc" and is a reference to the spark of innovation that drives our ideas and the spark of electricity that drives our robots. 
+  The "SPARC" is pronounced in the same way as "spark" and is a reference to the spark of innovation that drives our ideas and the spark of electricity that drives our robots. 
   
   <!-- to the *src* folder commonly found in robotics code and programming projects in general. Just as the *src* folder holds the most foundational code that everything else builds on, the SRC Lab focuses on fundamental theory and algorithms that will serve as the foundation for safe and reliable robotic systems.   -->
 
