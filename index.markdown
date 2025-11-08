@@ -17,7 +17,7 @@ author_profile: true
 
 <center>
 <p align="justify">
-Hi, my name is Ryan K. Cosner. I'm an  <a href="https://engineering.tufts.edu/me/people/faculty/ryan-cosner"> Assistant Professor at Tufts University</a> (starting in January 2026). Before coming to Tufts I earned my Ph.D. from Caltech, my B.S. from UC Berkeley, and worked with the Autonomous Vehicle Research Group at Nvidia. 
+Hi, my name is Ryan K. Cosner. I'm the  <a href="https://engineering.tufts.edu/me/people/faculty/ryan-cosner"> Glenn R. Stevens Assistant Professor at Tufts University</a> (starting in January 2026) where I direct the <a href="https://sites.tufts.edu/sparc/">SPARC lab</a>. Before coming to Tufts I earned my Ph.D. from Caltech, my B.S. from UC Berkeley, and worked with the Autonomous Vehicle Research Group at Nvidia. 
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@ My research lies at the intersection of robotics, machine learning, and control 
 
 
 <p align="justify">
-<b><i>Prospective students:</i></b> <mark>I'm looking for motivated students to join my lab!</mark> Please see <a href="/lab/"><b>here</b></a> for more information. 
+<b><i>Prospective students:</i></b> <mark>I'm looking for motivated students to join my lab!</mark> Please see <a href="https://sites.tufts.edu/sparc/join-the-sparc-lab/"><b>here</b></a> for more information. 
 </p>
 </center>
 
@@ -47,7 +47,7 @@ My research lies at the intersection of robotics, machine learning, and control 
             <p> Click the link to read more about my research or visit my <a href="https://scholar.google.com/citations?user=9XSMo-AAAAAJ&hl=en&oi=ao" > Google Scholar</a>
             </p>
             </div>
-            <p><a href="/research/" class="btn btn--primary">View Research</a></p>
+            <p><a href="https://sites.tufts.edu/sparc/research/" class="btn btn--primary">View Research</a></p>
         </div>
     </div>
     </div>

@@ -1,12 +1,13 @@
 main:
   - title: "research"
-    url: /research/
-  - title: "SPARC lab"
-    sublinks: 
-      - title: "about us"
-        url: /lab/
-      - title: "q&a"
-        url: /q_and_a/
+    url: https://sites.tufts.edu/sparc/research/
+  - title: "sparc lab"
+    url: https://sites.tufts.edu/sparc/
+    # sublinks: 
+    #   - title: "about us"
+    #     url: /lab/
+    #   - title: "q&a"
+    #     url: /q_and_a/
       # - title: "library"
         # url: /library/research-library/
   - title: "resources"
@@ -19,7 +20,7 @@ main:
   #       url: /blogs/grad_apps/
 
   - title: "bio/cv"
-    url: /bio/ 
+    url: https://sites.tufts.edu/sparc/ryan-k-cosner/ 
   #/assets/files/Resume.pdf
   # - title: "misc."
   #   url: /misc/

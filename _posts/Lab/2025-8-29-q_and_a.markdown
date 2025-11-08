@@ -53,8 +53,9 @@ Here you can find relevant information about what it is like to be a member of t
 <hr>
 
 ## Research
-<hr>
 
+
+<hr> 
 
 <details>
   <summary><b>What classes would be useful to do research with SPARC? What should I read to get started?</b></summary>
@@ -83,6 +84,17 @@ Here you can find relevant information about what it is like to be a member of t
   
   Also, a **huge** part of science is in communicating results, so therefore it is critical that we, as researchers, develop our communication skills. This includes public speaking and designing slide decks for presentations. Video editing and figure design are also surprisingly important skills for a robotics researchers as videos and figures can really help to communicate a result. For scientific communication in math, it is incredibly useful to know how to use latex and I would recommend using [Overleaf](https://www.overleaf.com/) as your latex editor that has a lot of google-docs-style functionality.  
 
+  </div>
+</details>
+
+<hr>
+
+
+<details>
+  <summary><b>What skills/traits does Prof. Cosner and SPARC Lab look for in PhD applications? </b></summary>
+
+  <div markdown="1">
+  I think that the purpose of a PhD is to <i>learn how to be a researcher</i>. Therefore, while specific technical skills are important, what matters more is your ability to acquire new ones. I think that the three most important qualities for a PhD student are <b>passion</b>, <b>perseverance</b>, and <b>ability to collaborate</b>. While courses and grades in a relevant field can reflect these traits, I also value things like personal projects, statements of purpose, community outreach, work experience, and more. I try to assess applicants holistically and avoid letting any single factor (e.g. GPA or test scores) etc. carry too much weight. 
   </div>
 </details>
 
