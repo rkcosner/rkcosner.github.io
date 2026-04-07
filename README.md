@@ -3,5 +3,5 @@ Ryan's Personal Website:
 
 
 How to test locally: 
-   - enter: $ bundle exec jekyll serve
+   - enter: $ bundle exec jekyll serve 
    - navigate to this site in your browser: http://localhost:4000
