@@ -11,13 +11,11 @@ main:
       # - title: "library"
         # url: /library/research-library/
   - title: "resources"
-    sublinks: 
-      - title: "academic writing guidelines"
-        url: /blogs/paper_writing_advice/
+    sublinks:
       - title: "faculty application advice"
         url: /blogs/faculty_apps/
-  #     - title: "phd application advice"
-  #       url: /blogs/grad_apps/
+      - title: "research library"
+        url: /library/research-library/
 
   - title: "bio/cv"
     url: https://sites.tufts.edu/sparc/ryan-k-cosner/ 

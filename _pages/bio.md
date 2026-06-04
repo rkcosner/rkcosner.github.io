@@ -14,24 +14,15 @@ comments: true
 
 
 
-Ryan Kazuo (<ruby>一男<rt>かずお</rt></ruby>) Cosner (he/they) is the Glenn R. Stevens Assistant Professor of Mechanical Engineering at Tufts University (starting in January 2026). He directs the [**Tufts SPARC Lab**](/lab/) (*Tufts Safe Robotics & Control Lab*), which seeks to revolutionize robot safety and enable performant, trustworthy, and capable robots to be deployed confidently alongside humans. His research spans robotics, machine learning, and control theory, with an emphasis on theoretical rigor and practical utility. 
+Ryan Kazuo (<ruby>一男<rt>かずお</rt></ruby>) Cosner (he/they) is the Glenn R. Stevens Assistant Professor of Mechanical Engineering at Tufts University. He directs the [**Tufts SPARC Lab**](/lab/) (*Tufts Safe Robotics & Control Lab*), which seeks to revolutionize robot safety and enable performant, trustworthy, and capable robots to be deployed confidently alongside humans. His research spans robotics, machine learning, and control theory, with an emphasis on theoretical rigor and practical utility. 
 
 Ryan earned his B.S. in Mechanical Engineering from the University of California, Berkeley (2019), and his M.S. (2021) and Ph.D. (2025) from Caltech. In 2022, he worked as a research intern with the Autonomous Driving Research Group at Nvidia. He was recognized as an Outstanding Teaching Assistant at Caltech in 2024. 
 
 
 For the most up-to-date list of Ryan's publications, please check out his [Google Scholar](https://scholar.google.com/citations?user=9XSMo-AAAAAJ&hl=en&oi=ao) or for other news find him on [LinkedIn](https://www.linkedin.com/in/ryan-cosner-980836105/).
 
-<div class="feature__wrapper">
-    <div class="feature__item--center">
-    <div class="archive__item">
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Curriculum Vitae (CV)</h2>
-            <div class="archive__item-excerpt">
-            </div>
-            <p><a href="/assets/files/Resume.pdf" class="btn btn--primary">View CV</a></p>
-        </div>
-    </div>
-    </div>
+<div style="text-align: center; margin: 2em 0;">
+  <a href="/assets/files/Resume.pdf" class="btn btn--primary btn--large">View CV</a>
 </div>
 
 

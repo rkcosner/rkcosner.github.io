@@ -7,7 +7,7 @@ categories: Library
 tags : [Library]
 ---
 
-Here is a list of some of the quotes and published works that inspire our research. 
+Here is a list of some of the quotes and published works that inspire my research. 
 
 ## Quotes
 * "What would Tadashi Hamada do?"
@@ -16,7 +16,7 @@ Here is a list of some of the quotes and published works that inspire our resear
 * "Sometimes proving things in control theory is like playing Pokemon. You could try and catch them all, but that's not really the point." - Andrew Taylor
 * "Just because the result is correct, it does not mean it should be published" - Magnus Egerstedt
 * "Code is cheap, show me the hardware" - Magnus Egerstedt
-* "Ultimately, a PhD is an acadedmic program. It's goal is not to produce ***research*** it is to produce ***researchers***. If you come in everyday and learn something knew, then you're succeeding" - Raffaello D'Andrea
+* "Ultimately, a PhD is an academic program. It's goal is not to produce ***research*** it is to produce ***researchers***. If you come in everyday and learn something knew, then you're succeeding" - Raffaello D'Andrea
 
 <hr>
 <hr>

@@ -7,18 +7,12 @@ comments: true
 ---
 
 
-Lecture on Simultaneous Localization and Mapping given for Caltech 133b Mobile Robotics Winter 2024: 
+Lectures on Simultaneous Localization and Mapping given for Caltech 133b Mobile Robotics Winter 2024: 
 <p align="center">
 <iframe src="https://drive.google.com/file/d/1-fY3Ldc2jJjtlylAJghq54T8r4rhbxgD/preview" width="640" height="480" allow="autoplay"></iframe>
 </p>
-
-<hr>
-
-
-
-Lecture on Simultaneous Localization and Mapping given for Caltech 133b Mobile Robotics Winter 2024: 
 <p align="center">
-<iframe src="https://drive.google.com/file/d/1EhXGfSLYR5nZ2Fjs2Ctc-ealPFIEGzAV/preview" width="560" height="315" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1EhXGfSLYR5nZ2Fjs2Ctc-ealPFIEGzAV/preview" width="640" height="480" allow="autoplay"></iframe>
 </p>
 
 <hr>

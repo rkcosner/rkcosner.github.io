@@ -17,7 +17,7 @@ author_profile: true
 
 <center>
 <p align="justify">
-Hi, my name is Ryan K. Cosner. I'm the  <a href="https://engineering.tufts.edu/me/people/faculty/ryan-cosner"> Glenn R. Stevens Assistant Professor at Tufts University</a> (starting in January 2026) where I direct the <a href="https://sites.tufts.edu/sparc/">SPARC lab</a>. Before coming to Tufts I earned my Ph.D. from Caltech, my B.S. from UC Berkeley, and worked with the Autonomous Vehicle Research Group at Nvidia. 
+Hi, my name is Ryan K. Cosner. I'm the  <a href="https://engineering.tufts.edu/me/people/faculty/ryan-cosner"> Glenn R. Stevens Assistant Professor at Tufts University</a> where I direct the <a href="https://sites.tufts.edu/sparc/">SPARC lab</a>. Before coming to Tufts I earned my Ph.D. from Caltech, my B.S. from UC Berkeley, and worked with the Autonomous Vehicle Research Group at Nvidia. 
 </p>
 
 <p align="justify">
@@ -30,8 +30,6 @@ My research lies at the intersection of robotics, machine learning, and control 
 <b><i>Prospective students:</i></b> <mark>I'm looking for motivated students to join my lab!</mark> Please see <a href="https://sites.tufts.edu/sparc/join-the-sparc-lab/"><b>here</b></a> for more information. 
 </p>
 </center>
-
-
 
 <br>
 
@@ -52,35 +50,7 @@ My research lies at the intersection of robotics, machine learning, and control 
     </div>
     </div>
 </div>
-<!-- <div class="feature__wrapper">
-    <div class="feature__item--right">
-    <div class="archive__item">
-        <div class="archive__item-teaser">
-            <img src="/assets/images/baldyCropped.jpg" alt="Misc. Image">    
-        </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Misc.</h2>
-            <div class="archive__item-excerpt">
-            <p>Some fun stuff. Both scientific and not so scientific.</p>
-            </div>
-            <p><a href="/misc/" class="btn btn--primary">View Misc.</a></p>
-        </div>
-    </div>
-    </div>
-</div>  -->
-<div class="feature__wrapper">
-    <div class="feature__item--center">
-    <div class="archive__item">
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Curriculum Vitae (CV)</h2>
-            <div class="archive__item-excerpt">
-            <p>For more details on my experiences please download my CV using the link below. Last updated (7/31/25). </p>
-            </div>
-            <p><a href="/assets/files/Resume.pdf" class="btn btn--primary">Download CV</a></p>
-        </div>
-    </div>
-    </div>
-
+<div style="text-align: center; margin: 2em 0;">
+  <a href="/assets/files/Resume.pdf" class="btn btn--primary btn--large">View CV</a>
 </div>
 
- 

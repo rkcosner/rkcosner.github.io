@@ -17,10 +17,4 @@ Some miscellaneous resources and blog posts
 - [PhD Admissions](/blogs/grad-apps/)
 - [Faculty Applications](/blogs/faculty-apps/)
 
-## Fun Resources
-- [Triathlon](/miscCal-Tri/)
-- [Math Memes](/miscMath-Memes/)
-- [The Three Body Problem](miscThree-Body)
-
-
 
